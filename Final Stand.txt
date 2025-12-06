@@ -1,0 +1,1420 @@
+[Settings]
+{
+  "name": "Hearthstone Cube 1",
+  "boostersPerPlayer": 4,
+  "colorBalance": false,
+  "duplicateProtection": true,
+  "cardTitleHeightFactor": 2.5,
+  "boosterSettings": [
+    { "picks": 1, "burns": [1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0] },
+    { "picks": 1, "burns": [1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0] },
+    { "picks": 1, "burns": [1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0] },
+    { "picks": 1, "burns": [1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0] } ]
+}
+
+[CustomCards]
+[
+  {"name": "HS/mag/cre/10/DJManastorm", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/MAGE/1%20HS%3Amag%3Acre%3A10%3ADJManastorm.png"},
+  {"name": "HS/mag/cre/12/Colossus", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/MAGE/1%20HS%3Amag%3Acre%3A12%3AColossus.png"},
+  {"name": "HS/mag/cre/12/Manopator", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/MAGE-CUSTOM/1%20HSmagcre12Manopator.png"},
+  {"name": "HS/mag/cre/2/BloomingFrost", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/MAGE-CUSTOM/1%20HSmagcre2BloomingFrost.png"},
+  {"name": "HS/mag/cre/3/AutoNull", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/MAGE-CUSTOM/1%20HSmagcre3AutoNull.png"},
+  {"name": "HS/mag/cre/3/IcyCold", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/MAGE-CUSTOM/1%20HSmagcre3IcyCold.png"},
+  {"name": "HS/mag/cre/3/Luna", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/MAGE/1%20HS%3Amag%3Acre%3A3%3ALuna.png"},
+  {"name": "HS/mag/cre/3/Varden", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/MAGE-CUSTOM/1%20HSmagcre3Varden.png"},
+  {"name": "HS/mag/cre/3/Werewolf", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/MAGE-CUSTOM/1%20HSmagcre3Werewolf.png"},
+  {"name": "HS/mag/cre/4/JandiceWild", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/MAGE-CUSTOM/1%20HSmagcre4JandiceWild.png"},
+  {"name": "HS/mag/cre/4/Naga", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/MAGE-CUSTOM/1%20HSmagcre4Naga.png"},
+  {"name": "HS/mag/cre/4/Sivara", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/MAGE/1%20HS%3Amag%3Acre%3A4%3ASivara.png"},
+  {"name": "HS/mag/cre/4/TricksterToki", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/MAGE-CUSTOM/1%20HSmagcre4TricksterToki.png"},
+  {"name": "HS/mag/cre/4/Zephrys", "mana_cost": "{13}", "type": "Creature", "rating": 3.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/MAGE-CUSTOM/1%20HSmagcre4Zephrys.png"},
+  {"name": "HS/mag/cre/5/Aegwynn", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/MAGE/1%20HS%3Amag%3Acre%3A5%3AAegwynn.png"},
+  {"name": "HS/mag/cre/5/BlazingElem", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/MAGE-CUSTOM/1%20HSmagcre5BlazingElem.png"},
+  {"name": "HS/mag/cre/5/Genie", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/MAGE-CUSTOM/1%20HSmagcre5Genie.png"},
+  {"name": "HS/mag/cre/5/Gryphon", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/MAGE-CUSTOM/1%20HSmagcre5Gryphon.png"},
+  {"name": "HS/mag/cre/5/Imp", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/MAGE-CUSTOM/1%20HSmagcre5Imp.png"},
+  {"name": "HS/mag/cre/5/MesAdune", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/MAGE/1%20HS%3Amag%3Acre%3A5%3AMesAdune.png"},
+  {"name": "HS/mag/cre/5/Mozaki", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/MAGE/1%20HS%3Amag%3Acre%3A5%3AMozaki.png"},
+  {"name": "HS/mag/cre/5/Pippi", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/MAGE-CUSTOM/1%20HSmagcre5Pippi.png"},
+  {"name": "HS/mag/cre/5/Silivaz", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/MAGE-CUSTOM/1%20HSmagcre5Silivaz.png"},
+  {"name": "HS/mag/cre/5/Twilight", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/MAGE-CUSTOM/1%20HSmagcre5Twilight.png"},
+  {"name": "HS/mag/cre/6/BalindaStonehearth", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/MAGE/1%20HS%3Amag%3Acre%3A6%3ABalindaStonehearth.png"},
+  {"name": "HS/mag/cre/6/Chromie", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/MAGE/1%20HS%3Amag%3Acre%3A6%3AChromie.png"},
+  {"name": "HS/mag/cre/6/Norgannon", "mana_cost": "{13}", "type": "Creature", "rating": 4, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/MAGE/1%20HS%3Amag%3Acre%3A6%3ANorgannon.png"},
+  {"name": "HS/mag/cre/6/Reno", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/MAGE/1%20HS%3Amag%3Acre%3A6%3AReno.png"},
+  {"name": "HS/mag/cre/6/Sif", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/MAGE/1%20HS%3Amag%3Acre%3A6%3ASif.png"},
+  {"name": "HS/mag/cre/7/ClumsyCourier", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/MAGE/1%20HS%3Amag%3Acre%3A7%3AClumsyCourier.png"},
+  {"name": "HS/mag/cre/7/TemporalConstruct", "mana_cost": "{13}", "type": "Creature", "rating": 3, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/MAGE/1%20HS%3Amag%3Acre%3A7%3ATemporalConstruct.png"},
+  {"name": "HS/mag/cre/8/GaiaTheTechtonic", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/MAGE/1%20HS%3Amag%3Acre%3A8%3AGaiaTheTechtonic.png"},
+  {"name": "HS/mag/cre/8/Hareh", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/MAGE/1%20HS%3Amag%3Acre%3A8%3AHareh.png"},
+  {"name": "HS/mag/cre/8/HexLordMalakrass", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/MAGE/1%20HS%3Amag%3Acre%3A8%3AHexLordMalakrass.png"},
+  {"name": "HS/mag/cre/8/Kalecgos", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/MAGE/1%20HS%3Amag%3Acre%3A8%3AKalecgos.png"},
+  {"name": "HS/mag/cre/8/Rhonin", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/MAGE/1%20HS%3Amag%3Acre%3A8%3ARhonin.png"},
+  {"name": "HS/mag/cre/8/TortollanPiligrim", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/MAGE/1%20HS%3Amag%3Acre%3A8%3ATortollanPiligrim.png"},
+  {"name": "HS/mag/cre/9/MalygosRattle", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/MAGE-CUSTOM/1%20HSmagcre9MalygosRattle.png"},
+  {"name": "HS/mag/spe/0/Fate", "mana_cost": "{0}", "type": "Spell", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/MAGE-CUSTOM/1%20HSmagspe0Fate.png"},
+  {"name": "HS/mag/spe/10/IcebloodTower", "mana_cost": "{13}", "type": "Spell", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/MAGE/1%20HS%3Amag%3Aspe%3A10%3AIcebloodTower.png"},
+  {"name": "HS/mag/spe/10/ancientflame", "mana_cost": "{13}", "type": "Spell", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/MAGE-CUSTOM/1%20HSmagspe10ancientflame.png"},
+  {"name": "HS/mag/spe/3/Annul", "mana_cost": "{13}", "type": "Spell", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/MAGE-CUSTOM/1%20HSmagspe3Annul.png"},
+  {"name": "HS/mag/spe/3/Glaciation", "mana_cost": "{13}", "type": "Spell", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/MAGE-CUSTOM/1%20HSmagspe3Glaciation.png"},
+  {"name": "HS/mag/spe/3/GraveSilence", "mana_cost": "{13}", "type": "Spell", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/MAGE-CUSTOM/1%20HSmagspe3GraveSilence.png"},
+  {"name": "HS/mag/spe/3/IceBlock", "mana_cost": "{13}", "type": "Spell", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/MAGE/1%20HS%3Amag%3Aspe%3A3%3AIceBlock.png"},
+  {"name": "HS/mag/spe/3/VoidMind", "mana_cost": "{13}", "type": "Spell", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/MAGE-CUSTOM/1%20HSmagspe3VoidMind.png"},
+  {"name": "HS/mag/spe/5/TrainToTheFuture", "mana_cost": "{13}", "type": "Spell", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/MAGE-CUSTOM/1%20HSmagspe5TrainToTheFuture.png"},
+  {"name": "HS/mag/spe/7/MaskOfCthun", "mana_cost": "{13}", "type": "Spell", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/MAGE/1%20HS%3Amag%3Aspe%3A7%3AMaskOfCthun.png"},
+  {"name": "HS/mag/spe/8/ArcaneCycle", "mana_cost": "{13}", "type": "Spell", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/MAGE-CUSTOM/1%20HSmagspe8ArcaneCycle.png"},
+  {"name": "HS/mag/spe/9/SunsetVolley", "mana_cost": "{13}", "type": "Spell", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/MAGE/1%20HS%3Amag%3Aspe%3A9%3ASunsetVolley.png"},
+  {"name": "HS/mag/spe/9/TotalIncineration", "mana_cost": "{13}", "type": "Spell", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/MAGE-CUSTOM/1%20HSmagspe9TotalIncineration.png"},
+  {"name": "HS/mag/wea/3/Sphere", "mana_cost": "{13}", "type": "Weapon", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/MAGE-CUSTOM/1%20HSmagwea3Sphere.png"},
+  {"name": "HS/mag/wea/6/Aluneth", "mana_cost": "{13}", "type": "Weapon", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/MAGE/1%20HS%3Amag%3Awea%3A6%3AAluneth.png"},
+  {"name": "HS/hun/cre/1/Selective", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/HUNT/1%20HS%3Ahun%3Acre%3A1%3ASelective.png"},
+  {"name": "HS/hun/cre/10/Banjosaur", "mana_cost": "{13}", "type": "Creature", "rating": 4, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/HUNT/1%20HS%3Ahun%3Acre%3A10%3ABanjosaur.png"},
+  {"name": "HS/hun/cre/10/Tyrannosaur", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/HUNT-CUSTOM/1%20HShuncre10Tyrannosaur.png"},
+  {"name": "HS/hun/cre/10/Tyrant", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/HUNT-CUSTOM/1%20HShuncre10Tyrant.png"},
+  {"name": "HS/hun/cre/3/Dreadscale", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/HUNT/1%20HS%3Ahun%3Acre%3A3%3ADreadscale.png"},
+  {"name": "HS/hun/cre/3/ExarchNaielle", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/HUNT/1%20HS%3Ahun%3Acre%3A3%3AExarchNaielle.png"},
+  {"name": "HS/hun/cre/3/Niri", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/HUNT/1%20HS%3Ahun%3Acre%3A3%3ANiri.png"},
+  {"name": "HS/hun/cre/3/Tavish", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/HUNT/1%20HS%3Ahun%3Acre%3A3%3ATavish.png"},
+  {"name": "HS/hun/cre/3/Tracker", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/HUNT/1%20HS%3Ahun%3Acre%3A3%3ATracker.png"},
+  {"name": "HS/hun/cre/4/Fletcher", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/HUNT/1%20HS%3Ahun%3Acre%3A4%3AFletcher.png"},
+  {"name": "HS/hun/cre/4/Hyena", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/HUNT-CUSTOM/1%20HShuncre4Hyena.png"},
+  {"name": "HS/hun/cre/4/Maluk", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/HUNT/1%20HS%3Ahun%3Acre%3A4%3AMaluk.png"},
+  {"name": "HS/hun/cre/4/Necromechanic", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/HUNT/1%20HS%3Ahun%3Acre%3A4%3ANecromechanic.png"},
+  {"name": "HS/hun/cre/4/Twinbow", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/HUNT/1%20HS%3Ahun%3Acre%3A4%3ATwinbow.png"},
+  {"name": "HS/hun/cre/4/Warsong", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/HUNT/1%20HS%3Ahun%3Acre%3A4%3AWarsong.png"},
+  {"name": "HS/hun/cre/5/Cerberus", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/HUNT-CUSTOM/1%20HShuncre5Cerberus.png"},
+  {"name": "HS/hun/cre/5/Guuru", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/HUNT-CUSTOM/1%20HShuncre5Guuru.png"},
+  {"name": "HS/hun/cre/5/Scorpion", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/HUNT-CUSTOM/1%20HShuncre5Scorpion.png"},
+  {"name": "HS/hun/cre/5/Tiger", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/HUNT-CUSTOM/1%20HShuncre5Tiger.png"},
+  {"name": "HS/hun/cre/5/TundraRhino", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/HUNT/1%20HS%3Ahun%3Acre%3A5%3ATundraRhino.png"},
+  {"name": "HS/hun/cre/5/Нюцзао", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/HUNT-CUSTOM/1%20HShuncre5Nunzao.png"},
+  {"name": "HS/hun/cre/6/Aggramar", "mana_cost": "{13}", "type": "Creature", "rating": 3.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/HUNT/1%20HS%3Ahun%3Acre%3A6%3AAggramar.png"},
+  {"name": "HS/hun/cre/6/Maxima", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/HUNT/1%20HS%3Ahun%3Acre%3A6%3AMaxima.png"},
+  {"name": "HS/hun/cre/6/Mukla", "mana_cost": "{13}", "type": "Creature", "rating": 4.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/HUNT/1%20HS%3Ahun%3Acre%3A6%3AMukla.png"},
+  {"name": "HS/hun/cre/7/Boommaster", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/HUNT/1%20HS%3Ahun%3Acre%3A7%3ABoommaster.png"},
+  {"name": "HS/hun/cre/7/DarkmoonTank", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/HUNT/1%20HS%3Ahun%3Acre%3A7%3ADarkmoonTank.png"},
+  {"name": "HS/hun/cre/7/HyenaMutant", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/HUNT-CUSTOM/1%20HShuncre7HyenaMutant.png"},
+  {"name": "HS/hun/cre/7/Rilak", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/HUNT-CUSTOM/1%20HShuncre7Rilak.png"},
+  {"name": "HS/hun/cre/7/Spiked", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/HUNT-CUSTOM/1%20HShuncre7Spiked.png"},
+  {"name": "HS/hun/cre/7/Toyrannosaurus", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/HUNT/1%20HS%3Ahun%3Acre%3A7%3AToyrannosaurus.png"},
+  {"name": "HS/hun/cre/7/Vereesa", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/HUNT/1%20HS%3Ahun%3Acre%3A7%3AVereesa.png"},
+  {"name": "HS/hun/cre/8/Goldrinn", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/HUNT-CUSTOM/1%20HShuncre8Goldrinn.png"},
+  {"name": "HS/hun/cre/8/Hodir", "mana_cost": "{13}", "type": "Creature", "rating": 4, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/HUNT/1%20HS%3Ahun%3Acre%3A8%3AHodir.png"},
+  {"name": "HS/hun/cre/8/Krush", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/HUNT-CUSTOM/1%20HShuncre8Krush.png"},
+  {"name": "HS/hun/cre/9/Goldrinn", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/HUNT/1%20HS%3Ahun%3Acre%3A9%3AGoldrinn.png"},
+  {"name": "HS/hun/cre/9/Ichman", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/HUNT/1%20HS%3Ahun%3Acre%3A9%3AIchman.png"},
+  {"name": "HS/hun/dk/cre/4/Yelling", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/HUNT/1%20HS%3Ahun%3Adk%3Acre%3A4%3AYelling.png"},
+  {"name": "HS/hun/spe/0/DevSwarm", "mana_cost": "{0}", "type": "Spell", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/HUNT/1%20HS%3Ahun%3Aspe%3A0%3ADevSwarm.png"},
+  {"name": "HS/hun/spe/1/ArcaneShot", "mana_cost": "{0}", "type": "Spell", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/HUNT/1%20HS%3Ahun%3Aspe%3A1%3AArcaneShot.png"},
+  {"name": "HS/hun/spe/1/Ricochet", "mana_cost": "{0}", "type": "Spell", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/HUNT/1%20HS%3Ahun%3Aspe%3A1%3ARicochet.png"},
+  {"name": "HS/hun/spe/1/Tracking", "mana_cost": "{0}", "type": "Spell", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/HUNT/1%20HS%3Ahun%3Aspe%3A1%3ATracking.png"},
+  {"name": "HS/hun/spe/10/NagrandSlam", "mana_cost": "{13}", "type": "Spell", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/HUNT/1%20HS%3Ahun%3Aspe%3A10%3ANagrandSlam.png"},
+  {"name": "HS/hun/spe/8/Collateral", "mana_cost": "{13}", "type": "Spell", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/HUNT/1%20HS%3Ahun%3Aspe%3A8%3ACollateral.png"},
+  {"name": "HS/hun/spe/8/StranglethornHeart", "mana_cost": "{13}", "type": "Spell", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/HUNT/1%20HS%3Ahun%3Aspe%3A8%3AStranglethornHeart.png"},
+  {"name": "HS/hun/wea/6/Hope", "mana_cost": "{13}", "type": "Weapon", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/HUNT/1%20HS%3Ahun%3Awea%3A6%3AHope.png"},
+
+{"name": "HS/dru/cre/10/EonarTheLifeBinder", "mana_cost": "{13}", "type": "Creature", "rating": 4.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/DRUID/Eonar.png"},
+  {"name": "HS/dru/cre/10/ForestLordCenarius", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/DRUID/Kenarius.png"},
+  {"name": "HS/dru/cre/10/Kun", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/DRUID/Kun1.png"},
+  {"name": "HS/dru/cre/12/Carrier", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/DRUID/Carrier.png"},
+  {"name": "HS/dru/cre/3/Manaswallower", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/DRUID-CUSTOM/1%20HSdrucre3Manaswallower.png"},
+  {"name": "HS/dru/cre/3/Oracle", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/DRUID/Oracle.png"},
+  {"name": "HS/dru/cre/4/Omnath", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/DRUID-CUSTOM/1%20HSdrucre4Omnath.png"},
+  {"name": "HS/dru/cre/5/Alice", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/DRUID-CUSTOM/1%20HSdrucre5Alice.png"},
+  {"name": "HS/dru/cre/5/BeetleFire", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/DRUID-CUSTOM/1%20HSdrucre5BeetleFire.png"},
+  {"name": "HS/dru/cre/5/Elise", "mana_cost": "{13}", "type": "Creature", "rating": 3.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/DRUID/1%20HS%3Adru%3Acre%3A5%3AElise.png"},
+  {"name": "HS/dru/cre/5/Galewing", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/DRUID-CUSTOM/1%20HSdrucre5Galewing.png"},
+  {"name": "HS/dru/cre/5/GroveShaper", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/DRUID/1%20HS%3Adru%3Acre%3A5%3AGroveShaper.png"},
+  {"name": "HS/dru/cre/5/Ixlid", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/DRUID/Ixlid.png"},
+  {"name": "HS/dru/cre/5/SummerFlowerchild", "mana_cost": "{13}", "type": "Creature", "rating": 4, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/DRUID/1%20HS%3Adru%3Acre%3A5%3ASummerFlowerchild.png"},
+  {"name": "HS/dru/cre/6/Lunara", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/DRUID-CUSTOM/1%20HSdrucre6Lunara.png"},
+  {"name": "HS/dru/cre/6/Omu", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/DRUID/1%20HS%3Adru%3Acre%3A6%3AOmu.png"},
+  {"name": "HS/dru/cre/7/Gloop", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/DRUID/1%20HS%3Adru%3Acre%3A7%3AGloop.png"},
+  {"name": "HS/dru/cre/7/Owlonius", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/DRUID/1%20HS%3Adru%3Acre%3A7%3AOwlonius.png"},
+  {"name": "HS/dru/cre/7/Underking", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/DRUID/1%20HS%3Adru%3Acre%3A7%3AUnderking.png"},
+  {"name": "HS/dru/cre/8/Anub'Rekhan", "mana_cost": "{13}", "type": "Creature", "rating": 4.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/DRUID/1%20HS%3Adru%3Acre%3A8%3AAnub'Rekhan.png"},
+  {"name": "HS/dru/cre/8/Cenarius", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/DRUID/1%20HS%3Adru%3Acre%3A8%3ACenarius.png"},
+  {"name": "HS/dru/cre/8/FluteDruid", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/DRUID-CUSTOM/1%20HSdrucre8FluteDruid.png"},
+  {"name": "HS/dru/cre/8/FreyaKeeperOfNature", "mana_cost": "{13}", "type": "Creature", "rating": 3.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/DRUID/1%20HS%3Adru%3Acre%3A8%3AFreyaKeeperOfNature.png"},
+  {"name": "HS/dru/cre/8/Sheldras", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/DRUID/1%20HS%3Adru%3Acre%3A8%3ASheldras.png"},
+  {"name": "HS/dru/cre/8/Гризли", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/DRUID/1%20HS%3Adru%3Acre%3A8%3AGrizzled.png"},
+  {"name": "HS/dru/cre/9/Hadronox", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/DRUID/1%20HS%3Adru%3Acre%3A9%3AHadronox.png"},
+  {"name": "HS/dru/cre/9/Seismopod", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/DRUID/1%20HS%3Adru%3Acre%3A9%3ASeismopod.png"},
+  {"name": "HS/dru/cre/9/YsielWindsinger", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/DRUID/1%20HS%3Adru%3Acre%3A9%3AYsielWindsinger.png"},
+  {"name": "HS/dru/spe/0/AquaticForm", "mana_cost": "{0}", "type": "Spell", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/DRUID/1%20HS%3Adru%3Aspe%3A0%3AAquaticForm.png"},
+  {"name": "HS/dru/spe/0/innervate", "mana_cost": "{0}", "type": "Spell", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/DRUID/1%20HS%3Adru%3Aspe%3A0%3Ainnervate1.png"},
+  {"name": "HS/dru/spe/0/lightningbloom", "mana_cost": "{0}", "type": "Spell", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/DRUID/1%20HS%3Adru%3Aspe%3A0%3Alightningbloom.png"},
+  {"name": "HS/dru/spe/0/moonfire", "mana_cost": "{0}", "type": "Spell", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/DRUID/1%20HS%3Adru%3Aspe%3A0%3Amoonfire.png"},
+  {"name": "HS/dru/spe/1/BiologyProject", "mana_cost": "{0}", "type": "Spell", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/DRUID/1%20HS%3Adru%3Aspe%3A1%3ABiologyProject.png"},
+  {"name": "HS/dru/spe/1/Moonbeam", "mana_cost": "{0}", "type": "Spell", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/DRUID/1%20HS%3Adru%3Aspe%3A1%3AMoonbeam.png"},
+  {"name": "HS/dru/spe/1/Naturalize", "mana_cost": "{0}", "type": "Spell", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/DRUID/1%20HS%3Adru%3Aspe%3A1%3ANaturalize.png"},
+  {"name": "HS/dru/spe/1/Waveshaping", "mana_cost": "{0}", "type": "Spell", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/DRUID/1%20HS%3Adru%3Aspe%3A1%3AWaveshaping.png"},
+  {"name": "HS/dru/spe/1/Хлюп", "mana_cost": "{0}", "type": "Spell", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/DRUID/HS%3Adru%3Aspe%3A1%3AFloop.png"},
+  {"name": "HS/dru/spe/10/SurvivalOfTheFittest", "mana_cost": "{13}", "type": "Spell", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/DRUID/1%20HS%3Adru%3Aspe%3A10%3ASurvivalOfTheFittest.png"},
+  {"name": "HS/dru/spe/7/AcidCloud", "mana_cost": "{13}", "type": "Spell", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/DRUID-CUSTOM/1%20HSdruspe7AcidCloud.png"},
+  {"name": "HS/dru/warl/cre/6/Doomkin", "mana_cost": "{13}", "type": "Creature", "rating": 4, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/DRUID/1%20HS%3Adru%3Awarl%3Acre%3A6%3ADoomkin.png"},
+  {"name": "HS/dk/cre/10/Wakener", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/DEATH-KNIGHT/1%20HS%3Adk%3Acre%3A10%3AWakener.png"},
+  {"name": "HS/dk/cre/20/Reska", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/DEATH-KNIGHT/1%20HS%3Adk%3Acre%3A20%3AReska.png"},
+  {"name": "HS/dk/cre/4/Buttons", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/DEATH-KNIGHT/1%20HS%3Adk%3Acre%3A4%3AButtons.png"},
+  {"name": "HS/dk/cre/5/Leech", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/DK-CUSTOM/1%20HSdkcre5Leech.png"},
+  {"name": "HS/dk/cre/5/Wolfhound", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/DK-CUSTOM/1%20HSdkcre5Wolfhound.png"},
+  {"name": "HS/dk/cre/6/Arfus", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/DK-CUSTOM/1%20HSdkcre6Arfus.png"},
+  {"name": "HS/dk/cre/6/Bonechill", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/DEATH-KNIGHT/1%20HS%3Adk%3Acre%3A6%3ABonechill.png"},
+  {"name": "HS/dk/cre/6/Frigidara", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/DEATH-KNIGHT/1%20HS%3Adk%3Acre%3A6%3AFrigidara.png"},
+  {"name": "HS/dk/cre/7/Alexandros", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/DEATH-KNIGHT/1%20HS%3Adk%3Acre%3A7%3AAlexandros.png"},
+  {"name": "HS/dk/cre/7/Patchwerk", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/DEATH-KNIGHT/Patchwerk.png"},
+  {"name": "HS/dk/cre/8/Anubrekhan", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/DK-CUSTOM/1%20HSdkcre8Anubrekhan.png"},
+  {"name": "HS/dk/cre/8/HighCultistHerenn", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/DEATH-KNIGHT/1%20HS%3Adk%3Acre%3A8%3AHighCultistHerenn.png"},
+  {"name": "HS/dk/cre/8/Kel'Thuzad", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/DK-CUSTOM/1%20HSdkcre8Kel'Thuzad.png"},
+  {"name": "HS/dk/cre/8/Soulstealer", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/DEATH-KNIGHT/1%20HS%3Adk%3Acre%3A8%3ASoulstealer.png"},
+  {"name": "HS/dk/cre/8/The8", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/DEATH-KNIGHT/1%20HS%3Adk%3Acre%3A8%3AThe8.png"},
+  {"name": "HS/dk/spe/0/HornOfWinter", "mana_cost": "{0}", "type": "Spell", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/DEATH-KNIGHT/1%20HS%3Adk%3Aspe%3A0%3AHornOfWinter.png"},
+  {"name": "HS/dk/spe/1/DeathGrips", "mana_cost": "{0}", "type": "Spell", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/DK-CUSTOM/1%20HSdkspe1DeathGrips.png"},
+  {"name": "HS/dk/spe/1/DeathGrowl", "mana_cost": "{0}", "type": "Spell", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/DEATH-KNIGHT/1%20HS%3Adk%3Aspe%3A1%3ADeathGrowl.png"},
+  {"name": "HS/dk/pal/spe/2/ColdFeet", "mana_cost": "{13}", "type": "Spell", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/DEATH-KNIGHT/HS%3Adk%3Apal%3Aspe%3A2%3AColdFeet.png"},
+  {"name": "HS/dk/spe/4/WaveTar", "mana_cost": "{13}", "type": "Spell", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/DEATH-KNIGHT/1%20HS%3Adk%3Aspe%3A4%3AWaveTar.png"},
+  {"name": "HS/dh/cre/10/Omen", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/DEMON-HUNTER/Omen.png"},
+  {"name": "HS/dh/cre/3/Felrattler", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/DEMON-HUNTER/Felrattler.png"},
+  {"name": "HS/dh/cre/3/Lady", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/DEMON-HUNTER/Lady.png"},
+  {"name": "HS/dh/cre/4/ChopperNaga", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/DH-CUSTOM/1%20HSdhcre4ChopperNaga.png"},
+  {"name": "HS/dh/cre/4/Felfire", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/DH-CUSTOM/1%20HSdhcre4Felfire.png"},
+  {"name": "HS/dh/cre/4/Mindbender", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/DEMON-HUNTER/Mindbender.png"},
+  {"name": "HS/dh/cre/4/ProsecutorMel'tranix", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/DEMON-HUNTER/ProsecutorMel'tranix.png"},
+  {"name": "HS/dh/cre/5/Aranna", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/DEMON-HUNTER/Aranna.png"},
+  {"name": "HS/dh/cre/5/Doomsday", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/DEMON-HUNTER/1%20HS%3Adh%3Acre%3A5%3ADoomsday.png"},
+  {"name": "HS/dh/cre/5/Imprisoned", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/DEMON-HUNTER/1%20HS%3Adh%3Acre%3A5%3AImprisoned.png"},
+  {"name": "HS/dh/cre/5/Jotun", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/DEMON-HUNTER/Jotun.png"},
+  {"name": "HS/dh/cre/6/CariaFelsoul", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/DEMON-HUNTER/Caria%20Felsoul.png"},
+  {"name": "HS/dh/cre/6/Cyborg", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/DH-CUSTOM/1%20HSdhcre6Cyborg.png"},
+  {"name": "HS/dh/cre/6/Illidan", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/DH-CUSTOM/1%20HSdhcre6Illidan.png"},
+  {"name": "HS/dh/cre/7/ArgusTheEmeraldStar", "mana_cost": "{13}", "type": "Creature", "rating": 4.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/DEMON-HUNTER/Argus.png"},
+  {"name": "HS/dh/cre/7/Blackthorn", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/DEMON-HUNTER/Blackthorn.png"},
+  {"name": "HS/dh/cre/7/Felbat", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/DEMON-HUNTER/1%20HS%3Adh%3Acre%3A7%3AFelbat.png"},
+  {"name": "HS/dh/cre/7/PriestessOfFury", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/DEMON-HUNTER/Priestess%20of%20Fury.png"},
+  {"name": "HS/dh/cre/7/XhilagOfTheAbyss", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/DEMON-HUNTER/Xhilag.png"},
+  {"name": "HS/dh/cre/8/ArtificerXy'mox", "mana_cost": "{13}", "type": "Creature", "rating": 4, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/DEMON-HUNTER/Artificer%20Xy'mox.png"},
+  {"name": "HS/dh/cre/8/Kailene", "mana_cost": "{13}", "type": "Creature", "rating": 4.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/DH-CUSTOM/1%20HSdhcre8Kailene.png"},
+  {"name": "HS/dh/cre/8/MagtheridonUnreleased", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/DEMON-HUNTER/Magtheridon.png"},
+  {"name": "HS/dh/cre/8/Mannoroth", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/DH-CUSTOM/1%20HSdhcre8Mannoroth.png"},
+  {"name": "HS/dh/cre/8/Taintheart", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/DEMON-HUNTER/Taintheart%20Tormenter.png"},
+  {"name": "HS/dh/cre/9/AncientVoidHound", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/DEMON-HUNTER/Ancient%20Void%20Hound.png"},
+  {"name": "HS/dh/cre/9/Pit/Commander", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/DEMON-HUNTER/1%20HS%3Adh%3Acre%3A9%3APit%3ACommander.png"},
+  {"name": "HS/dh/spe/1/Feast of Souls", "mana_cost": "{0}", "type": "Spell", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/DEMON-HUNTER/1%20HS%3Adh%3Aspe%3A1%3AFeast%20of%20Souls.png"},
+  {"name": "HS/dh/spe/1/ManaBurn", "mana_cost": "{0}", "type": "Spell", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/DEMON-HUNTER/1%20HS%3Adh%3Aspe%3A1%3AManaBurn.png"},
+  {"name": "HS/dh/spe/1/Unleash", "mana_cost": "{0}", "type": "Spell", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/DEMON-HUNTER/1%20HS%3Adh%3Aspe%3A1%3AUnleash.png"},
+
+{"name": "HS/war/cre/1/Patches", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/WARRIOR-CUSTOM/1%20HSwarcre1Patches.png"},
+  {"name": "HS/war/cre/10/SafetyExpert", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/WARRIOR/1%20HS%3Awar%3Acre%3A10%3ASafetyExpert.png"},
+  {"name": "HS/war/cre/10/VarianWrynn", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/WARRIOR/1%20HS%3Awar%3Acre%3A10%3AVarianWrynn.png"},
+  {"name": "HS/war/cre/3/Bombgrlock", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/WARRIOR-CUSTOM/1%20HSwarcre3Bombgrlock.png"},
+  {"name": "HS/war/cre/3/BoomMonster", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/WARRIOR-CUSTOM/1%20HSwarcre3BoomMonster.png"},
+  {"name": "HS/war/cre/3/Intimidator", "mana_cost": "{13}", "type": "Creature", "rating": 3.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/WARRIOR-CUSTOM/1%20HSwarcre3Intimidator.png"},
+  {"name": "HS/war/cre/5/Bronze", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/WARRIOR-CUSTOM/1%20HSwarcre5Bronze.png"},
+  {"name": "HS/war/cre/5/DisruptiveSpellbreaker", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/WARRIOR/1%20HS%3Awar%3Acre%3A5%3ADisruptiveSpellbreaker.png"},
+  {"name": "HS/war/cre/5/Felshaper", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/WARRIOR-CUSTOM/1%20HSwarcre5Felshaper.png"},
+  {"name": "HS/war/cre/5/HostileInvader", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/WARRIOR/1%20HS%3Awar%3Acre%3A5%3AHostileInvader.png"},
+  {"name": "HS/war/cre/5/Whatley", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/WARRIOR/1%20HS%3Awar%3Acre%3A5%3AWhatley.png"},
+  {"name": "HS/war/cre/5/Бумшаклер", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.github.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/WARRIOR-CUSTOM/1%20HSwarcre5Boomshakler.png"},
+  {"name": "HS/war/cre/6/Blast", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/WARRIOR/1%20HS%3Awar%3Acre%3A6%3ABlast.png"},
+  {"name": "HS/war/cre/6/Brann", "mana_cost": "{13}", "type": "Creature", "rating": 4.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/WARRIOR/1%20HS%3Awar%3Acre%3A6%3ABrann.png"},
+  {"name": "HS/war/cre/6/Crystal", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/WARRIOR-CUSTOM/1%20HSwarcre6Crystal.png"},
+  {"name": "HS/war/cre/6/Dummy", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/WARRIOR/1%20HS%3Awar%3Acre%3A6%3ADummy.png"},
+  {"name": "HS/war/cre/6/Engineer", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/WARRIOR-CUSTOM/1%20HSwarcre6Engineer.png"},
+  {"name": "HS/war/cre/6/IronJuggernaut", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/WARRIOR/1%20HS%3Awar%3Acre%3A6%3AIronJuggernaut.png"},
+  {"name": "HS/war/cre/6/Jungle", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/WARRIOR-CUSTOM/1%20HSwarcre6Jungle.png"},
+  {"name": "HS/war/cre/6/Khaz'goroth", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/WARRIOR/1%20HS%3Awar%3Acre%3A6%3AKhaz'goroth.png"},
+  {"name": "HS/war/cre/6/Krastinov", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/WARRIOR-CUSTOM/1%20HSwarcre6Krastinov.png"},
+  {"name": "HS/war/cre/6/Mechabull", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/WARRIOR-CUSTOM/1%20HSwarcre6Mechabull.png"},
+  {"name": "HS/war/cre/6/Saurfang", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/WARRIOR-CUSTOM/1%20HSwarcre6Saurfang.png"},
+  {"name": "HS/war/cre/6/Мораг", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/WARRIOR-CUSTOM/1%20HSwarcre6Мораг.png"},
+  {"name": "HS/war/cre/7/BoomPilot", "mana_cost": "{13}", "type": "Creature", "rating": 4, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/WARRIOR-CUSTOM/1%20HSwarcre7BoomPilot.png"},
+  {"name": "HS/war/cre/7/Brawler", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/WARRIOR/1%20HS%3Awar%3Acre%3A7%3ABrawler.png"},
+  {"name": "HS/war/cre/7/LavaGolem", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/WARRIOR-CUSTOM/1%20HSwarcre7LavaGolem.png"},
+  {"name": "HS/war/cre/7/Mechazod", "mana_cost": "{13}", "type": "Creature", "rating": 3.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/WARRIOR-CUSTOM/1%20HSwarcre7Mechazod.png"},
+  {"name": "HS/war/cre/8/BoombossTho'grun", "mana_cost": "{13}", "type": "Creature", "rating": 4.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/WARRIOR/1%20HS%3Awar%3Acre%3A8%3ABoombossTho’grun.png"},
+  {"name": "HS/war/cre/8/Champion", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/WARRIOR/1%20HS%3Awar%3Acre%3A8%3AChampion.png"},
+  {"name": "HS/war/cre/8/Drac", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/WARRIOR/1%20HS%3Awar%3Acre%3A8%3ADrac.png"},
+  {"name": "HS/war/cre/8/InventorBoom", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/WARRIOR/1%20HS%3Awar%3Acre%3A8%3AInventorBoom.png"},
+  {"name": "HS/war/cre/8/TidalRevenant", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/WARRIOR/1%20HS%3Awar%3Acre%3A8%3ATidalRevenant.png"},
+  {"name": "HS/war/cre/8WindpeakWyrm", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/WARRIOR/1%20HS%3Awar%3Acre%3A8WindpeakWyrm.png"},
+  {"name": "HS/war/spe/0/Order", "mana_cost": "{0}", "type": "Spell", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/WARRIOR-CUSTOM/1%20HSwarspe0Order.png"},
+  {"name": "HS/war/spe/1/FlamingBlow", "mana_cost": "{0}", "type": "Spell", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/WARRIOR-CUSTOM/1%20HSwarspe1FlamingBlow.png"},
+  {"name": "HS/war/spe/1/Whirlwind", "mana_cost": "{0}", "type": "Spell", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/WARRIOR/1%20HS%3Awar%3Aspe%3A1%3AWhirlwind.png"},
+  {"name": "HS/war/spe/2/SlowMotion", "mana_cost": "{13}", "type": "Spell", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/WARRIOR/1%20HS%3Awar%3Aspe%3A2%3ASlowMotion.png"},
+  {"name": "HS/war/wea/3/Shield", "mana_cost": "{13}", "type": "Weapon", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/WARRIOR/HS%3Awar%3Awea%3A3%3AShield.png"},
+  {"name": "HS/war/wea/4/Hammer", "mana_cost": "{13}", "type": "Weapon", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/WARRIOR/1%20HS%3Awar%3Awea%3A4%3AHammer.png"},
+  {"name": "HS/warl/cre/10/Agamaggan", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/WARLOCK/1%20HS%3Awarl%3Acre%3A10%3AAgamaggan.png"},
+  {"name": "HS/warl/cre/10/RafaamVillain", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/WARLOCK-CUSTOM/1%20HSwarlcre10RafaamVillain.png"},
+  {"name": "HS/warl/cre/10/Zuramat", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/WARLOCK-CUSTOM/1%20HSwarlcre10Zuramat.png"},
+  {"name": "HS/warl/cre/2/Isabel", "mana_cost": "{13}", "type": "Creature", "rating": 3.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/WARLOCK-CUSTOM/1%20HSwarlcre2Isabel.png"},
+  {"name": "HS/warl/cre/3/HellSpawn", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/WARLOCK-CUSTOM/1%20HSwarlcre3HellSpawn.png"},
+  {"name": "HS/warl/cre/3/Sketch", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/WARLOCK/1%20HS%3Awarl%3Acre%3A3%3ASketch.png"},
+  {"name": "HS/warl/cre/3/Skull", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/WARLOCK-CUSTOM/1%20HSwarlcre3Skull.png"},
+  {"name": "HS/warl/cre/3/Техномант", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/WARLOCK-CUSTOM/1%20HSwarlcre3Technomant.png"},
+  {"name": "HS/warl/cre/4/Dakota", "mana_cost": "{13}", "type": "Creature", "rating": 4.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/WARLOCK-CUSTOM/1%20HSwarlcre4Dakota.png"},
+  {"name": "HS/warl/cre/4/Darkmarrow", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/WARLOCK/1%20HS%3Awarl%3Acre%3A4%3ADarkmarrow.png"},
+  {"name": "HS/warl/cre/4/FireBreather", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/WARLOCK/1%20HS%3Awarl%3Acre%3A4%3AFireBreather.png"},
+  {"name": "HS/warl/cre/4/Hound", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/WARLOCK-CUSTOM/1%20HSwarlcre4Hound.png"},
+  {"name": "HS/warl/cre/4/Popgar", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/WARLOCK/1%20HS%3Awarl%3Acre%3A4%3APopgar.png"},
+  {"name": "HS/warl/cre/4/WardenLegion", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/WARLOCK-CUSTOM/1%20HSwarlcre4WardenLegion.png"},
+  {"name": "HS/warl/cre/4/Wrath", "mana_cost": "{13}", "type": "Creature", "rating": 3.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/WARLOCK-CUSTOM/1%20HSwarlcre4Wrath.png"},
+  {"name": "HS/warl/cre/5/BesTourist", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/WARLOCK-CUSTOM/1%20HSwarlcre5BesTourist.png"},
+  {"name": "HS/warl/cre/5/Dreadlord", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/WARLOCK/1%20HS%3Awarl%3Acre%3A5%3ADreadlord.png"},
+  {"name": "HS/warl/cre/5/Felstalker", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/WARLOCK-CUSTOM/1%20HSwarlcre5Felstalker.png"},
+  {"name": "HS/warl/cre/5/Hollow", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/WARLOCK/1%20HS%3Awarl%3Acre%3A5%3AHollow.png"},
+  {"name": "HS/warl/cre/5/PrisonGuard", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/WARLOCK-CUSTOM/1%20HSwarlcre5PrisonGuard.png"},
+  {"name": "HS/warl/cre/5/Rin", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/WARLOCK/1%20HS%3Awarl%3Acre%3A5%3ARin.png"},
+  {"name": "HS/warl/cre/5/VoidTorturer", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/WARLOCK-CUSTOM/1%20HSwarlcre5VoidTorturer.png"},
+  {"name": "HS/warl/cre/6/AshenCorruptor", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/WARLOCK-CUSTOM/1%20HSwarlcre6AshenCorruptor.png"},
+  {"name": "HS/warl/cre/6/Chronogor", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/WARLOCK/1%20HS%3Awarl%3Acre%3A6%3AChronogor.png"},
+  {"name": "HS/warl/cre/6/Customer", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/WARLOCK/1%20HS%3Awarl%3Acre%3A6%3ACustomer.png"},
+  {"name": "HS/warl/cre/6/GlindaCrowskin", "mana_cost": "{13}", "type": "Creature", "rating": 3.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/WARLOCK/1%20HS%3Awarl%3Acre%3A6%3AGlindaCrowskin.png"},
+  {"name": "HS/warl/cre/6/Loken", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/WARLOCK/1%20HS%3Awarl%3Acre%3A6%3ALoken.png"},
+  {"name": "HS/warl/cre/6/Rafaam", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/WARLOCK-CUSTOM/1%20HSwarlcre6Rafaam.png"},
+  {"name": "HS/warl/cre/7/Abyssal", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/WARLOCK/1%20HS%3Awarl%3Acre%3A7%3AAbyssal.png"},
+  {"name": "HS/warl/cre/7/Drathir", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/WARLOCK/1%20HS%3Awarl%3Acre%3A7%3ADrathir.png"},
+  {"name": "HS/warl/cre/7/Felbat", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/WARLOCK-CUSTOM/1%20HSwarlcre7Felbat.png"},
+  {"name": "HS/warl/cre/7/Godfrey", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/WARLOCK/1%20HS%3Awarl%3Acre%3A7%3AGodfrey.png"},
+  {"name": "HS/warl/cre/7/Urzul", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/WARLOCK-CUSTOM/1%20HSwarlcre7Urzul.png"},
+  {"name": "HS/warl/cre/7/Valdris", "mana_cost": "{13}", "type": "Creature", "rating": 4, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/WARLOCK/1%20HS%3Awarl%3Acre%3A7%3AValdris.png"},
+  {"name": "HS/warl/cre/8/Betrug", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/WARLOCK/1%20HS%3Awarl%3Acre%3A8%3ABetrug.png"},
+  {"name": "HS/warl/cre/8/Hungering", "mana_cost": "{13}", "type": "Creature", "rating": 3.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/WARLOCK/1%20HS%3Awarl%3Acre%3A8%3AHungering.png"},
+  {"name": "HS/warl/cre/8/Tickatus", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/WARLOCK-CUSTOM/1%20HSwarlcre8Tickatus.png"},
+  {"name": "HS/warl/cre/9/MalGanis", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/WARLOCK/1%20HS%3Awarl%3Acre%3A9%3AMalGanis.png"},
+  {"name": "HS/warl/cre/9/Voidlord", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/WARLOCK/1%20HS%3Awarl%3Acre%3A9%3AVoidlord.png"},
+  {"name": "HS/warl/spe/0/Catacombs", "mana_cost": "{0}", "type": "Spell", "rating": 4, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/WARLOCK/1%20HS%3Awarl%3Aspe%3A0%3ACatacombs.png"},
+  {"name": "HS/warl/spe/1/Extraction", "mana_cost": "{0}", "type": "Spell", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/WARLOCK-CUSTOM/1%20HSwarlspe1Extraction.png"},
+  {"name": "HS/warl/spe/1/Frackling", "mana_cost": "{0}", "type": "Spell", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/WARLOCK/1%20HS%3Awarl%3Aspe%3A1%3AFrackling.png"},
+  {"name": "HS/warl/spe/1/Prediction", "mana_cost": "{0}", "type": "Spell", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/WARLOCK-CUSTOM/1%20HSwarlspe1Prediction.png"},
+  {"name": "HS/warl/spe/1/Rain", "mana_cost": "{0}", "type": "Spell", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/WARLOCK/1%20HS%3Awarl%3Aspe%3A1%3ARain.png"},
+  {"name": "HS/warl/spe/1/Soularium", "mana_cost": "{0}", "type": "Spell", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/WARLOCK/1%20HS%3Awarl%3Aspe%3A1%3ASoularium.png"},
+  {"name": "HS/warl/spe/4/Phyrexia", "mana_cost": "{13}", "type": "Spell", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/WARLOCK-CUSTOM/1%20HSwarlspe4Phyrexia.png"},
+  {"name": "HS/warl/spe/8/BatMask", "mana_cost": "{13}", "type": "Spell", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/WARLOCK/1%20HS%3Awarl%3Aspe%3A8%3ABatMask.png"},
+  {"name": "HS/warl/spe/8/VoidContract", "mana_cost": "{13}", "type": "Spell", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/WARLOCK/1%20HS%3Awarl%3Aspe%3A8%3AVoidContract.png"},
+  {"name": "HS/warl/wea/4/AxeFel", "mana_cost": "{13}", "type": "Weapon", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/WARLOCK-CUSTOM/1%20HSwarlwea4AxeFel.png"},
+  {"name": "HS/sha/cre/2/Bolner", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/SHAMAN/1%20HS%3Asha%3Acre%3A2%3ABolner.png"},
+  {"name": "HS/sha/cre/2/DanceStorm", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/SHAMAN-CUSTOM/1%20HSshacre2DanceStorm.png"},
+  {"name": "HS/sha/cre/3/Brilliant", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/SHAMAN/1%20HS%3Asha%3Acre%3A3%3ABrilliant.png"},
+  {"name": "HS/sha/cre/3/Electra", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/SHAMAN/1%20HS%3Asha%3Acre%3A3%3AElectra.png"},
+  {"name": "HS/sha/cre/3/Lightnerer", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/SHAMAN-CUSTOM/1%20HSshacre3Lightnerer.png"},
+  {"name": "HS/sha/cre/4/Cabaret", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/SHAMAN/1%20HS%3Asha%3Acre%3A4%3ACabaret.png"},
+  {"name": "HS/sha/cre/4/Hagatha", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/SHAMAN/1%20HS%3Asha%3Acre%3A4%3AHagatha.png"},
+  {"name": "HS/sha/cre/5/Rotgill", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/SHAMAN/1%20HS%3Asha%3Acre%3A5%3ARotgill.png"},
+  {"name": "HS/sha/cre/6/FireElem", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/SHAMAN/1%20HS%3Asha%3Acre%3A6%3AFireElem.png"},
+  {"name": "HS/sha/cre/6/Golganneth", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/SHAMAN/1%20HS%3Asha%3Acre%3A6%3AGolganneth.png"},
+  {"name": "HS/sha/cre/6/Grumble", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/SHAMAN/1%20HS%3Asha%3Acre%3A6%3AGrumble.png"},
+  {"name": "HS/sha/cre/6/Merithra", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/SHAMAN/1%20HS%3Asha%3Acre%3A6%3AMerithra.png"},
+  {"name": "HS/sha/cre/6/Shudderblock", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/SHAMAN/1%20HS%3Asha%3Acre%3A6%3AShudderblock.png"},
+  {"name": "HS/sha/cre/6/SnowfallElem", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/SHAMAN/1%20HS%3Asha%3Acre%3A6%3ASnowfallElem.png"},
+  {"name": "HS/sha/cre/6/TheLurker", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/SHAMAN/1%20HS%3Asha%3Acre%3A6%3ATheLurker.png"},
+  {"name": "HS/sha/cre/7/Bogshaper", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/SHAMAN/1%20HS%3Asha%3Acre%3A7%3ABogshaper.png"},
+  {"name": "HS/sha/cre/7/Cosmonaut", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/SHAMAN/1%20HS%3Asha%3Acre%3A7%3ACosmonaut.png"},
+  {"name": "HS/sha/cre/7/Djinn", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/SHAMAN-CUSTOM/1%20HSshacre7Djinn.png"},
+  {"name": "HS/sha/cre/7/Enchanter", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/SHAMAN/1%20HS%3Asha%3Acre%3A7%3AEnchanter.png"},
+  {"name": "HS/sha/cre/7/Glugg", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/SHAMAN/1%20HS%3Asha%3Acre%3A7%3AGlugg.png"},
+  {"name": "HS/sha/cre/7/Wildfire", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/SHAMAN-CUSTOM/1%20HSshacre7Wildfire.png"},
+  {"name": "HS/sha/cre/8/Kraken", "mana_cost": "{13}", "type": "Creature", "rating": 3.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/SHAMAN-CUSTOM/1%20HSshacre8Kraken.png"},
+  {"name": "HS/sha/cre/9/Avatar", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/SHAMAN/1%20HS%3Asha%3Acre%3A9%3AAvatar.png"},
+  {"name": "HS/sha/cre/9/Drakueu", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/SHAMAN/1%20HS%3Asha%3Acre%3A9%3ADrakueu.png"},
+  {"name": "HS/sha/cre/9/Ohn'ahra", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/SHAMAN/1%20HS%3Asha%3Acre%3A9%3AOhn'ahra.png"},
+  {"name": "HS/sha/mag/cre/5/Ras", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/SHAMAN/1%20HS%3Asha%3Amag%3Acre%3A5%3ARas.png"},
+  {"name": "HS/sha/spe/0/Fireworks", "mana_cost": "{0}", "type": "Spell", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/SHAMAN-CUSTOM/1%20HSshaspe0Fireworks.png"},
+  {"name": "HS/sha/spe/0/Lightning", "mana_cost": "{0}", "type": "Spell", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/SHAMAN-CUSTOM/1%20HSshaspe0Lightning.png"},
+  {"name": "HS/sha/spe/0/Spraying", "mana_cost": "{0}", "type": "Spell", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/SHAMAN-CUSTOM/1%20HSshaspe0Spraying.png"},
+  {"name": "HS/sha/spe/1/Scalding", "mana_cost": "{0}", "type": "Spell", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/SHAMAN/1%20HS%3Asha%3Aspe%3A1%3AScalding.png"},
+  {"name": "HS/sha/spe/1/Storage", "mana_cost": "{0}", "type": "Spell", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/SHAMAN/1%20HS%3Asha%3Aspe%3A1%3AStorage.png"},
+  {"name": "HS/sha/spe/3/Permafrost", "mana_cost": "{13}", "type": "Spell", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/SHAMAN-CUSTOM/1%20HSshaspe3Permafrost.png"},
+  {"name": "HS/sha/spe/5/Bloodlust", "mana_cost": "{13}", "type": "Spell", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/SHAMAN/1%20HS%3Asha%3Aspe%3A5%3ABloodlust.png"},
+  {"name": "HS/sha/spe/5/Inara", "mana_cost": "{13}", "type": "Spell", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/SHAMAN/1%20HS%3Asha%3Aspe%3A5%3AInara.png"},
+  {"name": "HS/sha/spe/7/Wish", "mana_cost": "{13}", "type": "Spell", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/SHAMAN/1%20HS%3Asha%3Aspe%3A7%3AWish.png"},
+
+{"name": "HS/rog/cre/2/Tenwu", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/ROGUE/1%20HS%3Arog%3Acre%3A2%3ATenwu.png"},
+  {"name": "HS/rog/cre/3/FieldContact", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/ROGUE/1%20HS%3Arog%3Acre%3A3%3AFieldContact.png"},
+  {"name": "HS/rog/cre/3/MaievSuspect", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/ROGUE-CUSTOM/1%20HSrogcre3MaievSuspect.png"},
+  {"name": "HS/rog/cre/3/Vanessa", "mana_cost": "{13}", "type": "Creature", "rating": 4.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/ROGUE-CUSTOM/1%20HSrogcre3Vanessa.png"},
+  {"name": "HS/rog/cre/4/CounterfeitSmuggler", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/ROGUE-CUSTOM/1%20HSrogcre4CounterfeitSmuggler.png"},
+  {"name": "HS/rog/cre/4/Edwin", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/ROGUE/1%20HS%3Arog%3Acre%3A4%3AEdwin.png"},
+  {"name": "HS/rog/cre/4/NimbleSpy", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/ROGUE-CUSTOM/1%20HSrogcre4NimbleSpy.png"},
+  {"name": "HS/rog/cre/4/Plinter", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/ROGUE-CUSTOM/1%20HSrogcre4Plinter.png"},
+  {"name": "HS/rog/cre/4/ScabbsCutterbutter", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/ROGUE/1%20HS%3Arog%3Acre%3A4%3AScabbsCutterbutter.png"},
+  {"name": "HS/rog/cre/4/SonyaWaterdancer", "mana_cost": "{13}", "type": "Creature", "rating": 4.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/ROGUE/1%20HS%3Arog%3Acre%3A4%3ASonyaWaterdancer.png"},
+  {"name": "HS/rog/cre/4/SpellboundSeafarer", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/ROGUE-CUSTOM/1%20HSrogcre4SpellboundSeafarer.png"},
+  {"name": "HS/rog/cre/4/SpiritOfTheShark", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.github.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/ROGUE/1%20HS%3Arog%3Acre%3A4%3ASpiritOfTheShark.png"},
+  {"name": "HS/rog/cre/4/Swiftscale", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/ROGUE/1%20HS%3Arog%3Acre%3A4%3ASwiftscale.png"},
+  {"name": "HS/rog/cre/5/Draka", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/ROGUE/1%20HS%3Arog%3Acre%3A5%3ADraka.png"},
+  {"name": "HS/rog/cre/5/GiftThief", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/ROGUE-CUSTOM/1%20HSrogcre5GiftThief.png"},
+  {"name": "HS/rog/cre/5/GralShark", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/ROGUE/1%20HS%3Arog%3Acre%3A5%3AGralShark.png"},
+  {"name": "HS/rog/cre/5/Hooktail", "mana_cost": "{13}", "type": "Creature", "rating": 4, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/ROGUE/1%20HS%3Arog%3Acre%3A5%3AHooktail.png"},
+  {"name": "HS/rog/cre/5/MCBlingtron", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/ROGUE/1%20HS%3Arog%3Acre%3A5%3AMCBlingtron.png"},
+  {"name": "HS/rog/cre/5/RestlessThief", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/ROGUE-CUSTOM/1%20HSrogcre5RestlessThief.png"},
+  {"name": "HS/rog/cre/5/ShadowSculptor", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/ROGUE/1%20HS%3Arog%3Acre%3A5%3AShadowSculptor.png"},
+  {"name": "HS/rog/cre/5/Shadowcaster", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/ROGUE/1%20HS%3Arog%3Acre%3A5%3AShadowcaster.png"},
+  {"name": "HS/rog/cre/6/GrandEmpressShek'zara", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/ROGUE/1%20HS%3Arog%3Acre%3A6%3AGrandEmpressShek'zara.png"},
+  {"name": "HS/rog/cre/6/HighTemplar", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/ROGUE/1%20HS%3Arog%3Acre%3A6%3AHighTemplar.png"},
+  {"name": "HS/rog/cre/6/OgrBoatswain", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/ROGUE-CUSTOM/1%20HSrogcre6OgrBoatswain.png"},
+  {"name": "HS/rog/cre/6/OputheUnseen", "mana_cost": "{13}", "type": "Creature", "rating": 3.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/ROGUE/1%20HS%3Arog%3Acre%3A6%3AOputheUnseen.png"},
+  {"name": "HS/rog/cre/6/Prime", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/ROGUE/1%20HS%3Arog%3Acre%3A6%3APrime.png"},
+  {"name": "HS/rog/cre/6/Togwaggle", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/ROGUE-CUSTOM/1%20HSrogcre6Togwaggle.png"},
+  {"name": "HS/rog/cre/7/ElizaAdmiral", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/ROGUE-CUSTOM/1%20HSrogcre7ElizaAdmiral.png"},
+  {"name": "HS/rog/cre/7/Waxadred", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/ROGUE-CUSTOM/1%20HSrogcre7Waxadred.png"},
+  {"name": "HS/rog/spe//1Fuel", "mana_cost": "{0}", "type": "Spell", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/ROGUE/1%20HS%3Arog%3Aspe%3A%3A1Fuel.png"},
+  {"name": "HS/rog/spe/0/CounterfeitCoin", "mana_cost": "{0}", "type": "Spell", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/ROGUE/1%20HS%3Arog%3Aspe%3A0%3ACounterfeitCoin.png"},
+  {"name": "HS/rog/spe/0/Preparation", "mana_cost": "{0}", "type": "Spell", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/ROGUE/1%20HS%3Arog%3Aspe%3A0%3APreparation.png"},
+  {"name": "HS/rog/spe/0/ShadowOfDemise", "mana_cost": "{0}", "type": "Spell", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/ROGUE/1%20HS%3Arog%3Aspe%3A0%3AShadowOfDemise.png"},
+  {"name": "HS/rog/spe/0/Shadowstep", "mana_cost": "{0}", "type": "Spell", "rating": 4, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/ROGUE/1%20HS%3Arog%3Aspe%3A0%3AShadowstep.png"},
+  {"name": "HS/rog/spe/1/DejaVu", "mana_cost": "{0}", "type": "Spell", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/ROGUE/1%20HS%3Arog%3Aspe%3A1%3ADejaVu.png"},
+  {"name": "HS/rog/spe/1/Escape", "mana_cost": "{0}", "type": "Spell", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/ROGUE/1%20HS%3Arog%3Aspe%3A1%3AEscape.png"},
+  {"name": "HS/rog/spe/1/Mimicry", "mana_cost": "{0}", "type": "Spell", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/ROGUE/1%20HS%3Arog%3Aspe%3A1%3AMimicry.png"},
+  {"name": "HS/rog/spe/1/Mixtape", "mana_cost": "{0}", "type": "Spell", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/ROGUE/1%20HS%3Arog%3Aspe%3A1%3AMixtape.png"},
+  {"name": "HS/rog/spe/1/ThiefSheep", "mana_cost": "{0}", "type": "Spell", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/ROGUE-CUSTOM/1%20HSrogspe1ThiefSheep.png"},
+  {"name": "HS/rog/spe/2/Evasion", "mana_cost": "{13}", "type": "Spell", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/ROGUE/1%20HS%3Arog%3Aspe%3A2%3AEvasion.png"},
+  {"name": "HS/rog/spe/2/Ransom", "mana_cost": "{13}", "type": "Spell", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/ROGUE-CUSTOM/1%20HSrogspe2Ransom.png"},
+  {"name": "HS/rog/spe/2/SneakyHit", "mana_cost": "{13}", "type": "Spell", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/ROGUE-CUSTOM/1%20HSrogspe2SneakyHit.png"},
+  {"name": "HS/rog/spe/3/Daggers", "mana_cost": "{0}", "type": "Spell", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/ROGUE/1%20HS%3Arog%3Aspe%3A3%3ADaggers.png"},
+  {"name": "HS/rog/spe/3/Naxxramas", "mana_cost": "{13}", "type": "Spell", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/ROGUE-CUSTOM/1%20HSrogspe3Naxxramas.png"},
+  {"name": "HS/rog/spe/5/Graveyard", "mana_cost": "{13}", "type": "Spell", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/ROGUE/1%20HS%3Arog%3Aspe%3A5%3AGraveyard.png"},
+  {"name": "HS/rog/spe/8/Smokescreen", "mana_cost": "{13}", "type": "Spell", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/ROGUE/1%20HS%3Arog%3Aspe%3A8%3ASmokescreen.png"},
+  {"name": "HS/pri/cre/1/Valishj", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/PRIEST/1%20HS%3Apri%3Acre%3A1%3AValishj.png"},
+  {"name": "HS/pri/cre/2/Shadowfiend", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/PRIEST/1%20HS%3Apri%3Acre%3A2%3AShadowfiend.png"},
+  {"name": "HS/pri/cre/3/Bank", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/PRIEST/1%20HS%3Apri%3Acre%3A3%3ABank.png"},
+  {"name": "HS/pri/cre/3/Illucia", "mana_cost": "{13}", "type": "Creature", "rating": 4.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/PRIEST/1%20HS%3Apri%3Acre%3A3%3AIllucia.png"},
+  {"name": "HS/pri/cre/3/Lazul", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/PRIEST/1%20HS%3Apri%3Acre%3A3%3ALazul.png"},
+  {"name": "HS/pri/cre/3/Nazmani", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/PRIEST/1%20HS%3Apri%3Acre%3A3%3ANazmani.png"},
+  {"name": "HS/pri/cre/3/Pip", "mana_cost": "{13}", "type": "Creature", "rating": 3.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/PRIEST/1%20HS%3Apri%3Acre%3A3%3APip.png"},
+  {"name": "HS/pri/cre/3/Spawn", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/PRIEST-CUSTOM/1%20HSpricre3Spawn.png"},
+  {"name": "HS/pri/cre/4/Bonecaller", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/PRIEST/1%20HS%3Apri%3Acre%3A4%3ABonecaller.png"},
+  {"name": "HS/pri/cre/4/Disarming", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/PRIEST/1%20HS%3Apri%3Acre%3A4%3ADisarming.png"},
+  {"name": "HS/pri/cre/4/Imitator", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/PRIEST-CUSTOM/1%20HSpricre4Imitator.png"},
+  {"name": "HS/pri/cre/4/Moss", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/PRIEST-CUSTOM/1%20HSpricre4Moss.png"},
+  {"name": "HS/pri/cre/4/Najak", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/PRIEST/1%20HS%3Apri%3Acre%3A4%3ANajak.png"},
+  {"name": "HS/pri/cre/4/Narain", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/PRIEST/1%20HS%3Apri%3Acre%3A4%3ANarain.png"},
+  {"name": "HS/pri/cre/4/TheNameless", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/PRIEST/1%20HS%3Apri%3Acre%3A4%3ATheNameless.png"},
+  {"name": "HS/pri/cre/5/Mummy", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/PRIEST-CUSTOM/1%20HSpricre5Mummy.png"},
+  {"name": "HS/pri/cre/5/Reckless", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/PRIEST/1%20HS%3Apri%3Acre%3A5%3AReckless.png"},
+  {"name": "HS/pri/cre/6/Cabal", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/PRIEST/1%20HS%3Apri%3Acre%3A6%3ACabal.png"},
+  {"name": "HS/pri/cre/6/Herald", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/PRIEST/1%20HS%3Apri%3Acre%3A6%3AHerald.png"},
+  {"name": "HS/pri/cre/6/Undying", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/PRIEST/1%20HS%3Apri%3Acre%3A6%3AUndying.png"},
+  {"name": "HS/pri/cre/7/Aman'Thul", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/PRIEST/1%20HS%3Apri%3Acre%3A7%3AAman'Thul.png"},
+  {"name": "HS/pri/cre/7/Kel'ThuzadReanimator", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/PRIEST-CUSTOM/1%20HSpricre7Kel'ThuzadReanimator.png"},
+  {"name": "HS/pri/cre/7/Meteorite", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/PRIEST-CUSTOM/1%20HSpricre7Meteorite.png"},
+  {"name": "HS/pri/cre/7/Snake", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/PRIEST-CUSTOM/1%20HSpricre7Snake.png"},
+  {"name": "HS/pri/cre/7/Tyrande", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/PRIEST/1%20HS%3Apri%3Acre%3A7%3ATyrande.png"},
+  {"name": "HS/pri/cre/7/Velen", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/PRIEST/1%20HS%3Apri%3Acre%3A7%3AVelen.png"},
+  {"name": "HS/pri/cre/8/Elise", "mana_cost": "{13}", "type": "Creature", "rating": 4.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/PRIEST/1%20HS%3Apri%3Acre%3A8%3AElise.png"},
+  {"name": "HS/pri/cre/8/G'huunTheBloodGod", "mana_cost": "{13}", "type": "Creature", "rating": 4, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/PRIEST/1%20HS%3Apri%3Acre%3A8%3AG'huunTheBloodGod.png"},
+  {"name": "HS/pri/cre/8/ShapelessConstellation", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/PRIEST/1%20HS%3Apri%3Acre%3A8%3AShapelessConstellation.png"},
+  {"name": "HS/pri/cre/9/BloodOfG'huun", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/PRIEST/1%20HS%3Apri%3Acre%3A9%3ABloodOfG'huun.png"},
+  {"name": "HS/pri/cre/9/Culminator", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/PRIEST-CUSTOM/1%20HSpricre9Culminator.png"},
+  {"name": "HS/pri/cre/9/Juggernaut", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/PRIEST-CUSTOM/1%20HSpricre9Juggernaut.png"},
+  {"name": "HS/pri/cre/9/Sculptor", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/PRIEST-CUSTOM/1%20HSpricre9Sculptor.png"},
+  {"name": "HS/pri/spe/0/GodCoin", "mana_cost": "{0}", "type": "Spell", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/PRIEST-CUSTOM/1%20HSprispe0GodCoin.png"},
+  {"name": "HS/pri/spe/1/Acupuncture", "mana_cost": "{0}", "type": "Spell", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/PRIEST/1%20HS%3Apri%3Aspe%3A1%3AAcupuncture.png"},
+  {"name": "HS/pri/spe/1/Cloning", "mana_cost": "{0}", "type": "Spell", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/PRIEST/1%20HS%3Apri%3Aspe%3A1%3ACloning.png"},
+  {"name": "HS/pri/spe/1/Devour", "mana_cost": "{0}", "type": "Spell", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/PRIEST/1%20HS%3Apri%3Aspe%3A1%3ADevour.png"},
+  {"name": "HS/pri/spe/1/Hypnotic", "mana_cost": "{0}", "type": "Spell", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/PRIEST-CUSTOM/1%20HSprispe1Hypnotic.png"},
+  {"name": "HS/pri/spe/1/Intuition", "mana_cost": "{0}", "type": "Spell", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/PRIEST-CUSTOM/1%20HSprispe1Intuition.png"},
+  {"name": "HS/pri/spe/1/MindSear", "mana_cost": "{0}", "type": "Spell", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/PRIEST/1%20HS%3Apri%3Aspe%3A1%3AMindSear.png"},
+  {"name": "HS/pri/spe/1/Potion", "mana_cost": "{0}", "type": "Spell", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/PRIEST/1%20HS%3Apri%3Aspe%3A1%3APotion.png"},
+  {"name": "HS/pri/spe/1/Shard", "mana_cost": "{0}", "type": "Spell", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/PRIEST/1%20HS%3Apri%3Aspe%3A1%3AShard.png"},
+  {"name": "HS/pri/spe/10/Invasion", "mana_cost": "{13}", "type": "Spell", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/PRIEST-CUSTOM/1%20HSprispe10Invasion.png"},
+  {"name": "HS/pri/spe/7/ShadowEssence", "mana_cost": "{13}", "type": "Spell", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/PRIEST/1%20HS%3Apri%3Aspe%3A7%3AShadowEssence.png"},
+  {"name": "HS/pri/spe/8/IdolOfY'Shaarj", "mana_cost": "{13}", "type": "Spell", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/PRIEST/1%20HS%3Apri%3Aspe%3A8%3AIdolOfY'Shaarj.png"},
+  {"name": "HS/pri/spe/8/Moonwell", "mana_cost": "{13}", "type": "Spell", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/PRIEST/1%20HS%3Apri%3Aspe%3A8%3AMoonwell.png"},
+  {"name": "HS/pri/spe/9/Zerek'sCloningGallery", "mana_cost": "{13}", "type": "Spell", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/PRIEST/1%20HS%3Apri%3Aspe%3A9%3AZerek'sCloningGallery.png"},
+  {"name": "HS/pri/warl/spe/0/RaiseDead", "mana_cost": "{0}", "type": "Spell", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/PRIEST/1%20HS%3Apri%3Awarl%3Aspe%3A0%3ARaiseDead.png"},
+  {"name": "HS/pal/cre/2/Fins", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/PALADIN/1%20HS%3Apal%3Acre%3A2%3AFins.png"},
+  {"name": "HS/pal/cre/3/StonehearthVindicator", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/PALADIN/1%20HS%3Apal%3Acre%3A3%3AStonehearthVindicator.png"},
+  {"name": "HS/pal/cre/4/Grillmaster", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/PALADIN/1%20HS%3Apal%3Acre%3A4%3AGrillmaster.png"},
+  {"name": "HS/pal/cre/5/Aurobot", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/PALADIN-CUSTOM/1%20HSpalcre5Aurobot.png"},
+  {"name": "HS/pal/cre/5/Illidara", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/PALADIN-CUSTOM/1%20HSpalcre5Illidara.png"},
+  {"name": "HS/pal/cre/5/Lynessa", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/PALADIN/1%20HS%3Apal%3Acre%3A5%3ALynessa.png"},
+  {"name": "HS/pal/cre/5/Tank", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/PALADIN-CUSTOM/1%20HSpalcre5Tank.png"},
+  {"name": "HS/pal/cre/5/Toreth", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/PALADIN/1%20HS%3Apal%3Acre%3A5%3AToreth.png"},
+  {"name": "HS/pal/cre/6/PMM", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/PALADIN/1%20HS%3Apal%3Acre%3A6%3APMM.png"},
+  {"name": "HS/pal/cre/6/Tarim", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/PALADIN/1%20HS%3Apal%3Acre%3A6%3ATarim.png"},
+  {"name": "HS/pal/cre/7/AmitusThePeacekeeper", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/PALADIN/1%20HS%3Apal%3Acre%3A7%3AAmitusThePeacekeeper.png"},
+  {"name": "HS/pal/cre/7/Anachronos", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/PALADIN/1%20HS%3Apal%3Acre%3A7%3AAnachronos.png"},
+  {"name": "HS/pal/cre/7/BookLover", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/PALADIN-CUSTOM/1%20HSpalcre7BookLover.png"},
+  {"name": "HS/pal/cre/7/Pipsi", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/PALADIN/1%20HS%3Apal%3Acre%3A7%3APipsi.png"},
+  {"name": "HS/pal/cre/7/TheLeviathan", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/PALADIN/1%20HS%3Apal%3Acre%3A7%3ATheLeviathan.png"},
+  {"name": "HS/pal/cre/8/Tirion", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/PALADIN/1%20HS%3Apal%3Acre%3A8%3ATirion.png"},
+  {"name": "HS/pal/cre/8/Ursol", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/PALADIN/1%20HS%3Apal%3Acre%3A8%3AUrsol.png"},
+  {"name": "HS/pal/cre/9/AnnoyOTroupe", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/PALADIN/1%20HS%3Apal%3Acre%3A9%3AAnnoyOTroupe.png"},
+  {"name": "HS/pal/cre/9/Brasswing", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/PALADIN/1%20HS%3Apal%3Acre%3A9%3ABrasswing.png"},
+  {"name": "HS/pal/spe/4/Call", "mana_cost": "{13}", "type": "Spell", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/PALADIN/1%20HS%3Apal%3Aspe%3A4%3ACall.png"},
+  {"name": "HS/pal/spe/7/DivineToll", "mana_cost": "{13}", "type": "Spell", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/PALADIN/1%20HS%3Apal%3Aspe%3A7%3ADivineToll.png"},
+  {"name": "HS/pal/spe/7/SearingReflection", "mana_cost": "{13}", "type": "Spell", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/PALADIN/1%20HS%3Apal%3Aspe%3A7%3ASearingReflection.png"},
+  {"name": "HS/pal/spe/9/FrontLines", "mana_cost": "{13}", "type": "Spell", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/PALADIN/1%20HS%3Apal%3Aspe%3A9%3AFrontLines.png"},
+  {"name": "HS/pal/wea/4/UrsineMaul", "mana_cost": "{13}", "type": "Weapon", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/PALADIN/1%20HS%3Apal%3Awea%3A4%3AUrsineMaul.png"},
+  {"name": "HS/pal/wea/6/Valanyr", "mana_cost": "{13}", "type": "Weapon", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/PALADIN/1%20HS%3Apal%3Awea%3A6%3AValanyr.png"},
+
+{"name": "HS/neu/cre/1/Finley", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A1%3AFinley.png"},
+  {"name": "HS/neu/cre/10/AmplifiedElekk", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A10%3AAmplifiedElekk.png"},
+  {"name": "HS/neu/cre/10/AssemblyBot", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A10%3AAssemblyBot.png"},
+  {"name": "HS/neu/cre/10/ColossusOfTheSun", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL-CUSTOM/1%20HSneucre10ColossusOfTheSun.png"},
+  {"name": "HS/neu/cre/10/Deathwing", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL-CUSTOM/1%20HSneucre10Deathwing.png"},
+  {"name": "HS/neu/cre/10/Denathrius", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A10%3ADenathrius.png"},
+  {"name": "HS/neu/cre/10/DenathriusLeader", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL-CUSTOM/1%20HSneucre10DenathriusLeader.png"},
+  {"name": "HS/neu/cre/10/Giantosaur", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL-CUSTOM/1%20HSneucre10Giantosaur.png"},
+  {"name": "HS/neu/cre/10/N'Zoth", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A10%3AN'Zoth.png"},
+  {"name": "HS/neu/cre/10/N'ZothCowboy", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL-CUSTOM/1%20HSneucre10N'ZothCowboy.png"},
+  {"name": "HS/neu/cre/12/RockRock", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL-CUSTOM/1%20HSneucre12RockRock.png"},
+  {"name": "HS/neu/cre/125/TheCeaselessExpanse", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A125%3ATheCeaselessExpanse.png"},
+  {"name": "HS/neu/cre/2/FarWatchPost/v2", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A2%3AFarWatchPost%3Av2.png"},
+  {"name": "HS/neu/cre/2/ManaWraith", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A2%3AManaWraith.png"},
+  {"name": "HS/neu/cre/2/NerubarWeblord", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A2%3ANerubarWeblord.png"},
+  {"name": "HS/neu/cre/2/Ragavan", "mana_cost": "{13}", "type": "Creature", "rating": 3.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL-CUSTOM/1%20HSneucre2Ragavan.png"},
+  {"name": "HS/neu/cre/2/SaloonBrewmaster", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A2%3ASaloonBrewmaster.png"},
+  {"name": "HS/neu/cre/2/Thalia", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL-CUSTOM/1%20HSneucre2Thalia.png"},
+  {"name": "HS/neu/cre/2/nerubianseer", "mana_cost": "{13}", "type": "Creature", "rating": 4, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL-CUSTOM/1%20HSneucre2nerubianseer.png"},
+  {"name": "HS/neu/cre/3/AshenElemental", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A3%3AAshenElemental.png"},
+  {"name": "HS/neu/cre/3/BountyBoard", "mana_cost": "{13}", "type": "Creature", "rating": 3.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A3%3ABountyBoard.png"},
+  {"name": "HS/neu/cre/3/Brann", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A3%3ABrann.png"},
+  {"name": "HS/neu/cre/3/Clumsy", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A3%3AClumsy.png"},
+  {"name": "HS/neu/cre/3/CollecterRogber", "mana_cost": "{13}", "type": "Creature", "rating": 3, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL-CUSTOM/1%20HSneucre3CollecterRogber.png"},
+  {"name": "HS/neu/cre/3/DrakkariEnchanter", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A3%3ADrakkariEnchanter.png"},
+  {"name": "HS/neu/cre/3/Dwarf", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL-CUSTOM/1%20HSneucre3Dwarf.png"},
+  {"name": "HS/neu/cre/3/ForensicDuster", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A3%3AForensicDuster.png"},
+  {"name": "HS/neu/cre/3/FrostPost", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL-CUSTOM/1%20HSneucre3FrostPost.png"},
+  {"name": "HS/neu/cre/3/NerubCatchcer", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL-CUSTOM/1%20HSneucre3NerubCatchcer.png"},
+  {"name": "HS/neu/cre/3/Razorscale", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A3%3ARazorscale.png"},
+  {"name": "HS/neu/cre/3/Scarlet", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL-CUSTOM/1%20HSneucre3Scarlet.png"},
+  {"name": "HS/neu/cre/3/SmotheringStarfish", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A3%3ASmotheringStarfish.png"},
+  {"name": "HS/neu/cre/3/Stranger", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL-CUSTOM/1%20HSneucre3Stranger.png"},
+  {"name": "HS/neu/cre/3/Teron", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A3%3ATeron.png"},
+  {"name": "HS/neu/cre/3/TimelineAccelerator", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A3%3ATimelineAccelerator.png"},
+  {"name": "HS/neu/cre/3/ZolaTheGorgon", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A3%3AZolaTheGorgon.png"},
+  {"name": "HS/neu/cre/3/archivistoftimelesstreasures", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL-CUSTOM/1%20HSneucre3archivistoftimelesstreasures.png"},
+  {"name": "HS/neu/cre/4/Breya", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL-CUSTOM/1%20HSneucre4Breya.png"},
+  {"name": "HS/neu/cre/4/CaveElem", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL-CUSTOM/1%20HSneucre4CaveElem.png"},
+  {"name": "HS/neu/cre/4/CoverArtist", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A4%3ACoverArtist.png"},
+  {"name": "HS/neu/cre/4/CultMaster", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A4%3ACultMaster.png"},
+  {"name": "HS/neu/cre/4/ETCBandManager", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A4%3AETCBandManager.png"},
+  {"name": "HS/neu/cre/4/Ethereal", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A4%3AEthereal.png"},
+  {"name": "HS/neu/cre/4/GlimGuardian", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL-CUSTOM/1%20HSneucre4GlimGuardian.png"},
+  {"name": "HS/neu/cre/4/GuildTrader", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A4%3AGuildTrader.png"},
+  {"name": "HS/neu/cre/4/JohnGrave", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL-CUSTOM/1%20HSneucre4JohnGrave.png"},
+  {"name": "HS/neu/cre/4/MamaBear", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL-CUSTOM/1%20HSneucre4MamaBear.png"},
+  {"name": "HS/neu/cre/4/Moira", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL-CUSTOM/1%20HSneucre4Moira.png"},
+  {"name": "HS/neu/cre/4/NightmareLordXavius", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A4%3ANightmareLordXavius.png"},
+  {"name": "HS/neu/cre/4/ReporterUndercover", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL-CUSTOM/1%20HSneucre4ReporterUndercover.png"},
+  {"name": "HS/neu/cre/4/Rivendare", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A4%3ARivendare.png"},
+  {"name": "HS/neu/cre/4/RivendareDeathBringer", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL-CUSTOM/1%20HSneucre4RivendareDeathBringer.png"},
+  {"name": "HS/neu/cre/4/Sandbinder", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A4%3ASandbinder.png"},
+  {"name": "HS/neu/cre/4/SeaThinker", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL-CUSTOM/1%20HSneucre4SeaThinker.png"},
+  {"name": "HS/neu/cre/4/Soul", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL-CUSTOM/1%20HSneucre4Soul.png"},
+  {"name": "HS/neu/cre/4/Southsea", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A4%3ASouthsea.png"},
+  {"name": "HS/neu/cre/4/StreetSweeper", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A4%3AStreetSweeper.png"},
+  {"name": "HS/neu/cre/4/Umbra", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A4%3AUmbra.png"},
+  {"name": "HS/neu/cre/4/VandarStormpike", "mana_cost": "{13}", "type": "Creature", "rating": 3, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A4%3AVandarStormpike.png"},
+  {"name": "HS/neu/cre/4/knightofstormwind", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL-CUSTOM/1%20HSneucre4knightofstormwind.png"},
+  {"name": "HS/neu/cre/4/Флейтистка", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/HS%3Aneu%3Acre%3A4%3APiper.png"},
+  {"name": "HS/neu/cre/5/A.F.Kay", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A5%3AA.F.Kay.png"},
+  {"name": "HS/neu/cre/5/Abomination", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A5%3AAbomination.png"},
+  {"name": "HS/neu/cre/5/Ancient", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A5%3AAncient.png"},
+  {"name": "HS/neu/cre/5/ArmyDamn", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL-CUSTOM/1%20HSneucre5ArmyDamn.png"},
+  {"name": "HS/neu/cre/5/Barista", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A5%3ABarista.png"},
+  {"name": "HS/neu/cre/5/BoompistolBully", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A5%3ABoompistolBully.png"},
+  {"name": "HS/neu/cre/5/CattleRustler", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A5%3ACattleRustler.png"},
+  {"name": "HS/neu/cre/5/CopyBot", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL-CUSTOM/1%20HSneucre5CopyBot.png"},
+  {"name": "HS/neu/cre/5/Crystallizator", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL-CUSTOM/1%20HSneucre5Crystallizator.png"},
+  {"name": "HS/neu/cre/5/Cube", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A5%3ACube.png"},
+  {"name": "HS/neu/cre/5/EmperorThaurissan", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A5%3AEmperorThaurissan.png"},
+  {"name": "HS/neu/cre/5/FacelessManipulator", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A5%3AFacelessManipulator.png"},
+  {"name": "HS/neu/cre/5/GanDon", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL-CUSTOM/1%20HSneucre5GanDon.png"},
+  {"name": "HS/neu/cre/5/LagoonMystic", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL-CUSTOM/1%20HSneucre5LagoonMystic.png"},
+  {"name": "HS/neu/cre/5/Loatheb", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A5%3ALoatheb.png"},
+  {"name": "HS/neu/cre/5/LunarTrailblazer", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A5%3ALunarTrailblazer.png"},
+  {"name": "HS/neu/cre/5/MagathaBaneOfMusic", "mana_cost": "{13}", "type": "Creature", "rating": 4, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A5%3AMagathaBaneOfMusic.png"},
+  {"name": "HS/neu/cre/5/Manapard", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL-CUSTOM/1%20HSneucre5Manapard.png"},
+  {"name": "HS/neu/cre/5/MountainPost", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL-CUSTOM/1%20HSneucre5MountainPost.png"},
+  {"name": "HS/neu/cre/5/MuckPlumber", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A5%3AMuckPlumber.png"},
+  {"name": "HS/neu/cre/5/Saraad", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL-CUSTOM/1%20HSneucre5Saraad.png"},
+  {"name": "HS/neu/cre/5/SpammyArcanist", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A5%3ASpammyArcanist.png"},
+  {"name": "HS/neu/cre/5/Taelan", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A5%3ATaelan.png"},
+  {"name": "HS/neu/cre/5/TheReplicator-inator", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A5%3ATheReplicator-inator.png"},
+  {"name": "HS/neu/cre/5/TormentedDreadwing", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A5%3ATormentedDreadwing.png"},
+  {"name": "HS/neu/cre/5/TramOperator", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A5%3ATramOperator.png"},
+  {"name": "HS/neu/cre/5/TreasureHunter", "mana_cost": "{13}", "type": "Creature", "rating": 4, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL-CUSTOM/1%20HSneucre5TreasureHunter.png"},
+  {"name": "HS/neu/cre/5/Vol'jin", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A5%3AVol'jin.png"},
+  {"name": "HS/neu/cre/5/Мукла", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.github.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/NEUTRAL-CUSTOM/1%20HSneucre5MuklaEx.png"},
+  {"name": "HS/neu/cre/6/Barmenator", "mana_cost": "{13}", "type": "Creature", "rating": 4, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL-CUSTOM/1%20HSneucre6Barmenator.png"},
+  {"name": "HS/neu/cre/6/Battlemaster", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A6%3ABattlemaster.png"},
+  {"name": "HS/neu/cre/6/Bob", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A6%3ABob.png"},
+  {"name": "HS/neu/cre/6/Chicken", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL-CUSTOM/1%20HSneucre6Chicken.png"},
+  {"name": "HS/neu/cre/6/CorneliusRoame", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A6%3ACorneliusRoame.png"},
+  {"name": "HS/neu/cre/6/CorruptedSeer", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A6%3ACorruptedSeer.png"},
+  {"name": "HS/neu/cre/6/Cultist", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL-CUSTOM/1%20HSneucre6Cultist.png"},
+  {"name": "HS/neu/cre/6/GnomeliaSAFEPilot", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A6%3AGnomeliaSAFEPilot.png"},
+  {"name": "HS/neu/cre/6/MaskedReveler", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A6%3AMaskedReveler.png"},
+  {"name": "HS/neu/cre/6/MirrorMonster", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL-CUSTOM/1%20HSneucre6MirrorMonster.png"},
+  {"name": "HS/neu/cre/6/MissileLauncher", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A6%3AMissileLauncher.png"},
+  {"name": "HS/neu/cre/6/NerubianUnravaler", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A6%3ANerubianUnravaler.png"},
+  {"name": "HS/neu/cre/6/Reno", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A6%3AReno.png"},
+  {"name": "HS/neu/cre/6/Rocker", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL-CUSTOM/1%20HSneucre6Rocker.png"},
+  {"name": "HS/neu/cre/6/SylvanaDart", "mana_cost": "{13}", "type": "Creature", "rating": 3, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL-CUSTOM/1%20HSneucre6SylvanaDart.png"},
+  {"name": "HS/neu/cre/6/TheDeathPlayer", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL-CUSTOM/1%20HSneucre6TheDeathPlayer.png"},
+  {"name": "HS/neu/cre/6/TheotarTheMadDuke", "mana_cost": "{13}", "type": "Creature", "rating": 3, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A6%3ATheotarTheMadDuke.png"},
+  {"name": "HS/neu/cre/7/Azalina", "mana_cost": "{13}", "type": "Creature", "rating": 3.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A7%3AAzalina.png"},
+  {"name": "HS/neu/cre/7/BaronGeddon", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A7%3ABaronGeddon.png"},
+  {"name": "HS/neu/cre/7/Bonemare", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A7%3ABonemare.png"},
+  {"name": "HS/neu/cre/7/ChronoLord", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A7%3AChronoLord.png"},
+  {"name": "HS/neu/cre/7/CountessAshmore", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A7%3ACountessAshmore.png"},
+  {"name": "HS/neu/cre/7/EndbringerUmbra", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A7%3AEndbringerUmbra.png"},
+  {"name": "HS/neu/cre/7/Gallywix", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL-CUSTOM/1%20HSneucre7Gallywix.png"},
+  {"name": "HS/neu/cre/7/Heavy", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL-CUSTOM/1%20HSneucre7Heavy.png"},
+  {"name": "HS/neu/cre/7/Lor'themarTheron", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A7%3ALor'themarTheron.png"},
+  {"name": "HS/neu/cre/7/MutanusTheDevourer", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A7%3AMutanusTheDevourer.png"},
+  {"name": "HS/neu/cre/7/Nefarian", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL-CUSTOM/1%20HSneucre7Nefarian.png"},
+  {"name": "HS/neu/cre/7/Owl", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A7%3AOwl.png"},
+  {"name": "HS/neu/cre/7/SelflessSidekick", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A7%3ASelflessSidekick.png"},
+  {"name": "HS/neu/cre/7/Silas", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A7%3ASilas.png"},
+  {"name": "HS/neu/cre/7/SpitefulReader", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL-CUSTOM/1%20HSneucre7SpitefulReader.png"},
+  {"name": "HS/neu/cre/7/SuperTank", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL-CUSTOM/1%20HSneucre7SuperTank.png"},
+  {"name": "HS/neu/cre/7/TheCurator", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A7%3ATheCurator.png"},
+  {"name": "HS/neu/cre/7/TunnelBlaster", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A7%3ATunnelBlaster.png"},
+  {"name": "HS/neu/cre/7/Yrel", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL-CUSTOM/1%20HSneucre7Yrel.png"},
+  {"name": "HS/neu/cre/7/ZombieTomb", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL-CUSTOM/1%20HSneucre7ZombieTomb.png"},
+  {"name": "HS/neu/cre/7/Zookeeper", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A7%3AZookeeper.png"},
+  {"name": "HS/neu/cre/7/ГоблинАутист", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.github.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/NEUTRAL/1%20HS%3Aneu%3Acre%3A7%3AAuctioneer.png"},
+  {"name": "HS/neu/cre/8/AbominableLieutenant", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A8%3AAbominableLieutenant.png"},
+  {"name": "HS/neu/cre/8/CityRecruiters", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL-CUSTOM/1%20HSneucre8CityRecruiters.png"},
+  {"name": "HS/neu/cre/8/Goliath", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A8%3AGoliath.png"},
+  {"name": "HS/neu/cre/8/GrandArchivist", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A8%3AGrandArchivist.png"},
+  {"name": "HS/neu/cre/8/GreymaneWarrior", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL-CUSTOM/1%20HSneucre8GreymaneWarrior.png"},
+  {"name": "HS/neu/cre/8/GruulGigant", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL-CUSTOM/1%20HSneucre8GruulGigant.png"},
+  {"name": "HS/neu/cre/8/Infernalus", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL-CUSTOM/1%20HSneucre8Infernalus.png"},
+  {"name": "HS/neu/cre/8/Invincible", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A8%3AInvincible.png"},
+  {"name": "HS/neu/cre/8/JepettoJoybuzz", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A8%3AJepettoJoybuzz.png"},
+  {"name": "HS/neu/cre/8/Kael'Thas", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL-CUSTOM/1%20HSneucre8Kael'Thas.png"},
+  {"name": "HS/neu/cre/8/Kazakusan", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL-CUSTOM/HS%3Aneu%3Acre%3A8%3AKazakusan.png"},
+  {"name": "HS/neu/cre/8/KingTogwaggle", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A8%3AKingTogwaggle.png"},
+  {"name": "HS/neu/cre/8/Kologarn", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A8%3AKologarn.png"},
+  {"name": "HS/neu/cre/8/Mo'arg", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A8%3AMo'arg.png"},
+  {"name": "HS/neu/cre/8/Octosari", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A8%3AOctosari.png"},
+  {"name": "HS/neu/cre/8/PitCrocolisk", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A8%3APitCrocolisk.png"},
+  {"name": "HS/neu/cre/8/PrimordialDrake", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A8%3APrimordialDrake.png"},
+  {"name": "HS/neu/cre/8/RAGNAROS", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A8%3ARAGNAROS.png"},
+  {"name": "HS/neu/cre/8/Thunderbringer", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A8%3AThunderbringer.png"},
+  {"name": "HS/neu/cre/8/TrollCenturion", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A8%3ATrollCenturion.png"},
+  {"name": "HS/neu/cre/8/VarianKingOfStormwind", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A8%3AVarianKingOfStormwind.png"},
+  {"name": "HS/neu/cre/9/AlexstraszaTheLifebinder", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A9%3AAlexstraszaTheLifebinder.png"},
+  {"name": "HS/neu/cre/9/Alexstraza", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A9%3AAlexstraza.png"},
+  {"name": "HS/neu/cre/9/Devourer", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A9%3ADevourer.png"},
+  {"name": "HS/neu/cre/9/FleshBehemoth", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A9%3AFleshBehemoth.png"},
+  {"name": "HS/neu/cre/9/Malygos", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A9%3AMalygos.png"},
+  {"name": "HS/neu/cre/9/MalygosTheSpellweaver", "mana_cost": "{13}", "type": "Creature", "rating": 4, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A9%3AMalygosTheSpellweaver.png"},
+  {"name": "HS/neu/cre/9/MasterOakheart", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A9%3AMasterOakheart.png"},
+  {"name": "HS/neu/cre/9/MayorNoggenFogger", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A9%3AMayorNoggenFogger.png"},
+  {"name": "HS/neu/cre/9/Murozond", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A9%3AMurozond.png"},
+  {"name": "HS/neu/cre/9/N'zothGodOfTheDeep", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A9%3AN'zothGodOfTheDeep.png"},
+  {"name": "HS/neu/cre/9/Ripper", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL-CUSTOM/1%20HSneucre9Ripper.png"},
+  {"name": "HS/neu/cre/9/Sathrovarr", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A9%3ASathrovarr.png"},
+  {"name": "HS/neu/cre/9/Vorkai", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL-CUSTOM/1%20HSneucre9Vorkai.png"},
+  {"name": "HS/neu/cre/9/YoggSaronUnleashed", "mana_cost": "{13}", "type": "Creature", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL/1%20HS%3Aneu%3Acre%3A9%3AYoggSaronUnleashed.png"},
+  {"name": "HS/neu/spe/1/Once", "mana_cost": "{0}", "type": "Spell", "rating": 2.5, "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL-CUSTOM/1%20HSneuspe1Once.png"},
+{
+  "name": "HS/draft/BagOfCoins",
+  "mana_cost": "{13}",
+  "type": "Creature",
+  "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL-CUSTOM/HS%3Adraft%3ABagOfCoins.png",
+  "rating": 3,
+  "draft_effects": [
+    {
+      "type": "AddCards",
+      "count": 2,
+      "cards": [
+        "HS/rog/spe/0/CounterfeitCoin",
+        "HS/rog/spe/0/CounterfeitCoin",
+      ]
+    }
+  ]
+},
+{
+  "name": "HS/draft/BagOfHolding",
+  "mana_cost": "{13}",
+  "type": "Creature",
+  "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/NEUTRAL-CUSTOM/HS%3Adraft%3ABagOfHolding.png",
+  "rating": 2.5,
+  "draft_effects": [
+    {
+      "type": "AddCards",
+      "count": 3,
+      "cards": [
+        "HS/war/wea/3/Shield",
+        "HS/war/wea/4/Hammer",
+        "HS/pal/wea/4/UrsineMaul",
+        "HS/pal/wea/6/Valanyr",
+        "HS/mag/wea/3/Sphere",
+        "HS/mag/wea/6/Aluneth",
+        "HS/hun/wea/6/Hope",
+        "HS/warl/wea/4/AxeFel"
+      ]
+    }
+  ]
+},
+
+{
+  "name": "HS/mag/cre/3/Sell",
+  "mana_cost": "{13}",
+  "type": "Creature",
+  "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/MAGE-CUSTOM/1%20HS%3Amag%3Acre%3A3%3ASell.png",
+  "rating": 2.5
+},
+{
+  "name": "HS/mag/cre/4/Refreshing",
+  "mana_cost": "{13}",
+  "type": "Creature",
+  "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/MAGE-CUSTOM/1%20HS%3Amag%3Acre%3A4%3ARefreshing.png",
+  "rating": 2.5
+},
+{
+  "name": "HS/mag/cre/9/Ultra",
+  "mana_cost": "{13}",
+  "type": "Creature",
+  "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/MAGE-CUSTOM/1%20HS%3Amag%3Acre%3A9%3AUltra.png",
+  "rating": 2.5
+},
+{
+  "name": "HS/sha/cre/6/Neon",
+  "mana_cost": "{13}",
+  "type": "Creature",
+  "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/SHAMAN-CUSTOM/1%20HS%3Asha%3Acre%3A6%3ANeon.png",
+  "rating": 2.5
+},
+{
+  "name": "HS/warl/cre/6/Doom",
+  "mana_cost": "{13}",
+  "type": "Creature",
+  "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/WARLOCK-CUSTOM/1%20HS%3Awarl%3Acre%3A6%3ADoom.png",
+  "rating": 2.5
+},
+{
+  "name": "HS/warl/rog/cre/5/Dreadbeard",
+  "mana_cost": "{13}",
+  "type": "Creature",
+  "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/WARLOCK-CUSTOM/1%20HS%3Awarl%3Arog%3Acre%3A5%3ADreadbeard.png",
+  "rating": 2.5
+},
+{
+  "name": "HS/neu/cre/8/Fungus",
+  "mana_cost": "{13}",
+  "type": "Creature",
+  "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/NEUTRAL-CUSTOM/1%20HS%3Aneu%3Acre%3A8%3AFungus.png",
+  "rating": 2.5
+},
+{
+  "name": "HS/pal/cre/7/Whirring",
+  "mana_cost": "{13}",
+  "type": "Creature",
+  "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/PALADIN-CUSTOM/1%20HS%3Apal%3Acre%3A7%3AWhirring.png",
+  "rating": 2.5
+},
+{
+  "name": "HS/dh/cre/3/Gladiator",
+  "mana_cost": "{13}",
+  "type": "Creature",
+  "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/DH-CUSTOM/1%20HS%3Adh%3Acre%3A3%3AGladiator.png",
+  "rating": 2.5
+},
+{
+  "name": "HS/hun/cre/7/Progenitor",
+  "mana_cost": "{13}",
+  "type": "Creature",
+  "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/HUNT-CUSTOM/1%20HS%3Ahun%3Acre%3A7%3AProgenitor.png",
+  "rating": 2.5
+},
+{
+  "name": "HS/hun/cre/4/Rover",
+  "mana_cost": "{13}",
+  "type": "Creature",
+  "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/HUNT-CUSTOM/1%20HS%3Ahun%3Acre%3A4%3ARover.png",
+  "rating": 2.5
+},
+{
+  "name": "HS/hun/cre/6/Skittles",
+  "mana_cost": "{13}",
+  "type": "Creature",
+  "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/HUNT-CUSTOM/1%20HS%3Ahun%3Acre%3A6%3ASkittles.png",
+  "rating": 2.5
+},
+{
+  "name": "HS/hun/cre/4/Stegodon",
+  "mana_cost": "{13}",
+  "type": "Creature",
+  "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/HUNT-CUSTOM/1%20HS%3Ahun%3Acre%3A4%3AStegodon.png",
+  "rating": 2.5
+},
+{
+  "name": "HS/rog/cre/3/Upbeat",
+  "mana_cost": "{13}",
+  "type": "Creature",
+  "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/ROGUE-CUSTOM/1%20HS%3Arog%3Acre%3A3%3AUpbeat.png",
+  "rating": 2.5
+},
+{
+  "name": "HS/warl/cre/4/Tichondrius",
+  "mana_cost": "{13}",
+  "type": "Creature",
+  "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/WARLOCK-CUSTOM/1%20HS%3Awarl%3Acre%3A4%3ATichondrius.png",
+  "rating": 3.5
+},
+{
+  "name": "HS/warl/cre/4/Bazaar",
+  "mana_cost": "{13}",
+  "type": "Creature",
+  "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/WARLOCK-CUSTOM/1%20HS%3Awarl%3Acre%3A4%3ABazaar.png",
+  "rating": 4.5
+},
+{
+  "name": "HS/neu/cre/3/Sand",
+  "mana_cost": "{13}",
+  "type": "Creature",
+  "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/NEUTRAL-CUSTOM/1%20HS%3Aneu%3Acre%3A3%3ASand.png",
+  "rating": 2.5
+},
+{
+  "name": "HS/war/cre/4/Ragnarosha",
+  "mana_cost": "{13}",
+  "type": "Creature",
+  "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/WARRIOR-CUSTOM/1%20HS%3Awar%3Acre%3A4%3ARagnarosha.png",
+  "rating": 2.5
+},
+{
+  "name": "HS/sha/cre/6/Lokholar",
+  "mana_cost": "{13}",
+  "type": "Creature",
+  "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/SHAMAN-CUSTOM/1%20HS%3Asha%3Acre%3A6%3ALokholar.png",
+  "rating": 2.5
+},
+{
+  "name": "HS/sha/cre/6/Al'Akir",
+  "mana_cost": "{13}",
+  "type": "Creature",
+  "image": "https://raw.githubusercontent.com/ALDRAFTCUSTOM/DRAFTCARDSBASE/refs/heads/SHAMAN-CUSTOM/1%20HSshacre6Al'Akir.png",
+  "rating": 2.5
+}
+
+
+
+]
+
+[DefaultSheet(15)]
+
+HS/draft/BagOfCoins
+HS/draft/BagOfHolding
+HS/dh/cre/10/Omen
+HS/dh/cre/3/Felrattler
+HS/dh/cre/3/Lady
+HS/dh/cre/4/ChopperNaga
+HS/dh/cre/4/Felfire
+HS/dh/cre/4/Mindbender
+HS/dh/cre/4/ProsecutorMel'tranix
+HS/dh/cre/5/Aranna
+HS/dh/cre/5/Doomsday
+HS/dh/cre/5/Imprisoned
+HS/dh/cre/5/Jotun
+HS/dh/cre/6/CariaFelsoul
+HS/dh/cre/6/Cyborg
+HS/dh/cre/6/Illidan
+HS/dh/cre/7/ArgusTheEmeraldStar
+HS/dh/cre/7/Blackthorn
+HS/dh/cre/7/Felbat
+HS/dh/cre/7/PriestessOfFury
+HS/dh/cre/7/XhilagOfTheAbyss
+HS/dh/cre/8/ArtificerXy'mox
+HS/dh/cre/8/Kailene
+HS/dh/cre/8/MagtheridonUnreleased
+HS/dh/cre/8/Mannoroth
+HS/dh/cre/8/Taintheart
+HS/dh/cre/9/AncientVoidHound
+HS/dh/cre/9/Pit/Commander
+HS/dh/spe/1/Feast of Souls
+HS/dh/spe/1/ManaBurn
+HS/dh/spe/1/Unleash
+HS/dk/cre/10/Wakener
+HS/dk/cre/20/Reska
+HS/dk/cre/4/Buttons
+HS/dk/cre/5/Leech
+HS/dk/cre/5/Wolfhound
+HS/dk/cre/6/Arfus
+HS/dk/cre/6/Bonechill
+HS/dk/cre/6/Frigidara
+HS/dk/cre/7/Alexandros
+HS/dk/cre/7/Patchwerk
+HS/dk/cre/8/Anubrekhan
+HS/dk/cre/8/HighCultistHerenn
+HS/dk/cre/8/Kel'Thuzad
+HS/dk/cre/8/Soulstealer
+HS/dk/cre/8/The8
+HS/dk/spe/0/HornOfWinter
+HS/dk/spe/1/DeathGrips
+HS/dk/spe/1/DeathGrowl
+HS/dk/pal/spe/2/ColdFeet
+HS/dk/spe/4/WaveTar
+HS/dru/cre/10/EonarTheLifeBinder
+HS/dru/cre/10/ForestLordCenarius
+HS/dru/cre/10/Kun
+HS/dru/cre/12/Carrier
+HS/dru/cre/3/Manaswallower
+HS/dru/cre/3/Oracle
+HS/dru/cre/4/Omnath
+HS/dru/cre/5/Alice
+HS/dru/cre/5/BeetleFire
+HS/dru/cre/5/Elise
+HS/dru/cre/5/Galewing
+HS/dru/cre/5/GroveShaper
+HS/dru/cre/5/Ixlid
+HS/dru/cre/5/SummerFlowerchild
+HS/dru/cre/6/Lunara
+HS/dru/cre/6/Omu
+HS/dru/cre/7/Gloop
+HS/dru/cre/7/Owlonius
+HS/dru/cre/7/Underking
+HS/dru/cre/8/Anub'Rekhan
+HS/dru/cre/8/Cenarius
+HS/dru/cre/8/FluteDruid
+HS/dru/cre/8/FreyaKeeperOfNature
+HS/dru/cre/8/Sheldras
+HS/dru/cre/8/Гризли
+HS/dru/cre/9/Hadronox
+HS/dru/cre/9/Seismopod
+HS/dru/cre/9/YsielWindsinger
+HS/dru/spe/0/AquaticForm
+HS/dru/spe/0/innervate
+HS/dru/spe/0/lightningbloom
+HS/dru/spe/0/moonfire
+HS/dru/spe/1/BiologyProject
+HS/dru/spe/1/Moonbeam
+HS/dru/spe/1/Naturalize
+HS/dru/spe/1/Waveshaping
+HS/dru/spe/1/Хлюп
+HS/dru/spe/10/SurvivalOfTheFittest
+HS/dru/spe/7/AcidCloud
+HS/dru/warl/cre/6/Doomkin
+HS/hun/cre/1/Selective
+HS/hun/cre/10/Banjosaur
+HS/hun/cre/10/Tyrannosaur
+HS/hun/cre/10/Tyrant
+HS/hun/cre/3/Dreadscale
+HS/hun/cre/3/ExarchNaielle
+HS/hun/cre/3/Niri
+HS/hun/cre/3/Tavish
+HS/hun/cre/3/Tracker
+HS/hun/cre/4/Fletcher
+HS/hun/cre/4/Hyena
+HS/hun/cre/4/Maluk
+HS/hun/cre/4/Necromechanic
+HS/hun/cre/4/Twinbow
+HS/hun/cre/4/Warsong
+HS/hun/cre/5/Cerberus
+HS/hun/cre/5/Guuru
+HS/hun/cre/5/Scorpion
+HS/hun/cre/5/Tiger
+HS/hun/cre/5/TundraRhino
+HS/hun/cre/5/Нюцзао
+HS/hun/cre/6/Aggramar
+HS/hun/cre/6/Maxima
+HS/hun/cre/6/Mukla
+HS/hun/cre/7/Boommaster
+HS/hun/cre/7/DarkmoonTank
+HS/hun/cre/7/HyenaMutant
+HS/hun/cre/7/Rilak
+HS/hun/cre/7/Spiked
+HS/hun/cre/7/Toyrannosaurus
+HS/hun/cre/7/Vereesa
+HS/hun/cre/8/Goldrinn
+HS/hun/cre/8/Hodir
+HS/hun/cre/8/Krush
+HS/hun/cre/9/Goldrinn
+HS/hun/cre/9/Ichman
+HS/hun/dk/cre/4/Yelling
+HS/hun/spe/0/DevSwarm
+HS/hun/spe/1/ArcaneShot
+HS/hun/spe/1/Ricochet
+HS/hun/spe/1/Tracking
+HS/hun/spe/10/NagrandSlam
+HS/hun/spe/8/Collateral
+HS/hun/spe/8/StranglethornHeart
+HS/hun/wea/6/Hope
+HS/mag/cre/10/DJManastorm
+HS/mag/cre/12/Colossus
+HS/mag/cre/12/Manopator
+HS/mag/cre/2/BloomingFrost
+HS/mag/cre/3/AutoNull
+HS/mag/cre/3/IcyCold
+HS/mag/cre/3/Luna
+HS/mag/cre/3/Varden
+HS/mag/cre/3/Werewolf
+HS/mag/cre/4/JandiceWild
+HS/mag/cre/4/Naga
+HS/mag/cre/4/Sivara
+HS/mag/cre/4/TricksterToki
+HS/mag/cre/4/Zephrys
+HS/mag/cre/5/Aegwynn
+HS/mag/cre/5/BlazingElem
+HS/mag/cre/5/Genie
+HS/mag/cre/5/Gryphon
+HS/mag/cre/5/Imp
+HS/mag/cre/5/MesAdune
+HS/mag/cre/5/Mozaki
+HS/mag/cre/5/Pippi
+HS/mag/cre/5/Silivaz
+HS/mag/cre/5/Twilight
+HS/mag/cre/6/BalindaStonehearth
+HS/mag/cre/6/Chromie
+HS/mag/cre/6/Norgannon
+HS/mag/cre/6/Reno
+HS/mag/cre/6/Sif
+HS/mag/cre/7/ClumsyCourier
+HS/mag/cre/7/TemporalConstruct
+HS/mag/cre/8/GaiaTheTechtonic
+HS/mag/cre/8/Hareh
+HS/mag/cre/8/HexLordMalakrass
+HS/mag/cre/8/Kalecgos
+HS/mag/cre/8/Rhonin
+HS/mag/cre/8/TortollanPiligrim
+HS/mag/cre/9/MalygosRattle
+HS/mag/spe/0/Fate
+HS/mag/spe/10/IcebloodTower
+HS/mag/spe/10/ancientflame
+HS/mag/spe/3/Annul
+HS/mag/spe/3/Glaciation
+HS/mag/spe/3/GraveSilence
+HS/mag/spe/3/IceBlock
+HS/mag/spe/3/VoidMind
+HS/mag/spe/5/TrainToTheFuture
+HS/mag/spe/7/MaskOfCthun
+HS/mag/spe/8/ArcaneCycle
+HS/mag/spe/9/SunsetVolley
+HS/mag/spe/9/TotalIncineration
+HS/mag/wea/3/Sphere
+HS/mag/wea/6/Aluneth
+HS/neu/cre/1/Finley
+HS/neu/cre/10/AmplifiedElekk
+HS/neu/cre/10/AssemblyBot
+HS/neu/cre/10/ColossusOfTheSun
+HS/neu/cre/10/Deathwing
+HS/neu/cre/10/Denathrius
+HS/neu/cre/10/DenathriusLeader
+HS/neu/cre/10/Giantosaur
+HS/neu/cre/10/N'Zoth
+HS/neu/cre/10/N'ZothCowboy
+HS/neu/cre/12/RockRock
+HS/neu/cre/125/TheCeaselessExpanse
+2 HS/neu/cre/2/FarWatchPost/v2
+HS/neu/cre/2/ManaWraith
+HS/neu/cre/2/NerubarWeblord
+HS/neu/cre/2/Ragavan
+HS/neu/cre/2/SaloonBrewmaster
+HS/neu/cre/2/Thalia
+HS/neu/cre/2/nerubianseer
+HS/neu/cre/3/AshenElemental
+HS/neu/cre/3/BountyBoard
+HS/neu/cre/3/Brann
+HS/neu/cre/3/Clumsy
+HS/neu/cre/3/CollecterRogber
+HS/neu/cre/3/DrakkariEnchanter
+HS/neu/cre/3/Dwarf
+HS/neu/cre/3/ForensicDuster
+HS/neu/cre/3/FrostPost
+HS/neu/cre/3/NerubCatchcer
+HS/neu/cre/3/Razorscale
+HS/neu/cre/3/Scarlet
+HS/neu/cre/3/SmotheringStarfish
+HS/neu/cre/3/Stranger
+HS/neu/cre/3/Teron
+HS/neu/cre/3/TimelineAccelerator
+HS/neu/cre/3/ZolaTheGorgon
+HS/neu/cre/3/archivistoftimelesstreasures
+HS/neu/cre/4/Breya
+HS/neu/cre/4/CaveElem
+HS/neu/cre/4/CoverArtist
+HS/neu/cre/4/CultMaster
+HS/neu/cre/4/ETCBandManager
+HS/neu/cre/4/Ethereal
+HS/neu/cre/4/GlimGuardian
+HS/neu/cre/4/GuildTrader
+HS/neu/cre/4/JohnGrave
+HS/neu/cre/4/MamaBear
+HS/neu/cre/4/Moira
+HS/neu/cre/4/NightmareLordXavius
+HS/neu/cre/4/ReporterUndercover
+HS/neu/cre/4/Rivendare
+HS/neu/cre/4/RivendareDeathBringer
+HS/neu/cre/4/Sandbinder
+HS/neu/cre/4/SeaThinker
+HS/neu/cre/4/Soul
+HS/neu/cre/4/Southsea
+HS/neu/cre/4/StreetSweeper
+HS/neu/cre/4/Umbra
+HS/neu/cre/4/VandarStormpike
+HS/neu/cre/4/knightofstormwind
+HS/neu/cre/4/Флейтистка
+HS/neu/cre/5/A.F.Kay
+HS/neu/cre/5/Abomination
+HS/neu/cre/5/Ancient
+HS/neu/cre/5/ArmyDamn
+HS/neu/cre/5/Barista
+HS/neu/cre/5/BoompistolBully
+HS/neu/cre/5/CattleRustler
+HS/neu/cre/5/CopyBot
+HS/neu/cre/5/Crystallizator
+HS/neu/cre/5/Cube
+HS/neu/cre/5/EmperorThaurissan
+HS/neu/cre/5/FacelessManipulator
+HS/neu/cre/5/GanDon
+HS/neu/cre/5/LagoonMystic
+HS/neu/cre/5/Loatheb
+HS/neu/cre/5/LunarTrailblazer
+HS/neu/cre/5/MagathaBaneOfMusic
+HS/neu/cre/5/Manapard
+HS/neu/cre/5/MountainPost
+2 HS/neu/cre/5/MuckPlumber
+HS/neu/cre/5/Saraad
+HS/neu/cre/5/SpammyArcanist
+HS/neu/cre/5/Taelan
+HS/neu/cre/5/TheReplicator-inator
+HS/neu/cre/5/TormentedDreadwing
+HS/neu/cre/5/TramOperator
+HS/neu/cre/5/TreasureHunter
+HS/neu/cre/5/Vol'jin
+HS/neu/cre/5/Мукла
+HS/neu/cre/6/Barmenator
+HS/neu/cre/6/Battlemaster
+HS/neu/cre/6/Bob
+HS/neu/cre/6/Chicken
+HS/neu/cre/6/CorneliusRoame
+HS/neu/cre/6/CorruptedSeer
+HS/neu/cre/6/Cultist
+HS/neu/cre/6/GnomeliaSAFEPilot
+HS/neu/cre/6/MaskedReveler
+HS/neu/cre/6/MirrorMonster
+HS/neu/cre/6/MissileLauncher
+HS/neu/cre/6/NerubianUnravaler
+HS/neu/cre/6/Reno
+HS/neu/cre/6/Rocker
+HS/neu/cre/6/SylvanaDart
+HS/neu/cre/6/TheDeathPlayer
+HS/neu/cre/6/TheotarTheMadDuke
+HS/neu/cre/7/Azalina
+HS/neu/cre/7/BaronGeddon
+HS/neu/cre/7/Bonemare
+HS/neu/cre/7/ChronoLord
+HS/neu/cre/7/CountessAshmore
+HS/neu/cre/7/EndbringerUmbra
+HS/neu/cre/7/Gallywix
+HS/neu/cre/7/Heavy
+HS/neu/cre/7/Lor'themarTheron
+HS/neu/cre/7/MutanusTheDevourer
+HS/neu/cre/7/Nefarian
+HS/neu/cre/7/Owl
+HS/neu/cre/7/SelflessSidekick
+HS/neu/cre/7/Silas
+HS/neu/cre/7/SpitefulReader
+HS/neu/cre/7/SuperTank
+HS/neu/cre/7/TheCurator
+HS/neu/cre/7/TunnelBlaster
+HS/neu/cre/7/Yrel
+HS/neu/cre/7/ZombieTomb
+HS/neu/cre/7/Zookeeper
+HS/neu/cre/7/ГоблинАутист
+HS/neu/cre/8/AbominableLieutenant
+HS/neu/cre/8/CityRecruiters
+HS/neu/cre/8/Goliath
+HS/neu/cre/8/GrandArchivist
+HS/neu/cre/8/GreymaneWarrior
+HS/neu/cre/8/GruulGigant
+HS/neu/cre/8/Infernalus
+HS/neu/cre/8/Invincible
+HS/neu/cre/8/JepettoJoybuzz
+HS/neu/cre/8/Kael'Thas
+HS/neu/cre/8/Kazakusan
+HS/neu/cre/8/KingTogwaggle
+HS/neu/cre/8/Kologarn
+HS/neu/cre/8/Mo'arg
+HS/neu/cre/8/Octosari
+HS/neu/cre/8/PitCrocolisk
+HS/neu/cre/8/PrimordialDrake
+HS/neu/cre/8/RAGNAROS
+HS/neu/cre/8/Thunderbringer
+HS/neu/cre/8/TrollCenturion
+HS/neu/cre/8/VarianKingOfStormwind
+HS/neu/cre/9/AlexstraszaTheLifebinder
+HS/neu/cre/9/Alexstraza
+HS/neu/cre/9/Devourer
+HS/neu/cre/9/FleshBehemoth
+HS/neu/cre/9/Malygos
+HS/neu/cre/9/MalygosTheSpellweaver
+HS/neu/cre/9/MasterOakheart
+HS/neu/cre/9/MayorNoggenFogger
+HS/neu/cre/9/Murozond
+HS/neu/cre/9/N'zothGodOfTheDeep
+HS/neu/cre/9/Ripper
+HS/neu/cre/9/Sathrovarr
+HS/neu/cre/9/Vorkai
+HS/neu/cre/9/YoggSaronUnleashed
+HS/neu/spe/1/Once
+HS/pal/cre/2/Fins
+HS/pal/cre/3/StonehearthVindicator
+HS/pal/cre/4/Grillmaster
+HS/pal/cre/5/Aurobot
+HS/pal/cre/5/Illidara
+HS/pal/cre/5/Lynessa
+HS/pal/cre/5/Tank
+HS/pal/cre/5/Toreth
+HS/pal/cre/6/PMM
+HS/pal/cre/6/Tarim
+HS/pal/cre/7/AmitusThePeacekeeper
+HS/pal/cre/7/Anachronos
+HS/pal/cre/7/BookLover
+HS/pal/cre/7/Pipsi
+HS/pal/cre/7/TheLeviathan
+HS/pal/cre/8/Tirion
+HS/pal/cre/8/Ursol
+HS/pal/cre/9/AnnoyOTroupe
+HS/pal/cre/9/Brasswing
+HS/pal/spe/4/Call
+HS/pal/spe/7/DivineToll
+HS/pal/spe/7/SearingReflection
+HS/pal/spe/9/FrontLines
+HS/pal/wea/4/UrsineMaul
+HS/pal/wea/6/Valanyr
+HS/pri/cre/1/Valishj
+HS/pri/cre/2/Shadowfiend
+HS/pri/cre/3/Bank
+HS/pri/cre/3/Illucia
+HS/pri/cre/3/Lazul
+HS/pri/cre/3/Nazmani
+HS/pri/cre/3/Pip
+HS/pri/cre/3/Spawn
+HS/pri/cre/4/Bonecaller
+HS/pri/cre/4/Disarming
+HS/pri/cre/4/Imitator
+HS/pri/cre/4/Moss
+HS/pri/cre/4/Najak
+HS/pri/cre/4/Narain
+HS/pri/cre/4/TheNameless
+HS/pri/cre/5/Mummy
+HS/pri/cre/5/Reckless
+HS/pri/cre/6/Cabal
+HS/pri/cre/6/Herald
+HS/pri/cre/6/Undying
+HS/pri/cre/7/Aman'Thul
+HS/pri/cre/7/Kel'ThuzadReanimator
+HS/pri/cre/7/Meteorite
+HS/pri/cre/7/Snake
+HS/pri/cre/7/Tyrande
+HS/pri/cre/7/Velen
+HS/pri/cre/8/Elise
+HS/pri/cre/8/G'huunTheBloodGod
+HS/pri/cre/8/ShapelessConstellation
+HS/pri/cre/9/BloodOfG'huun
+HS/pri/cre/9/Culminator
+HS/pri/cre/9/Juggernaut
+HS/pri/cre/9/Sculptor
+HS/pri/spe/0/GodCoin
+HS/pri/spe/1/Acupuncture
+HS/pri/spe/1/Cloning
+HS/pri/spe/1/Devour
+HS/pri/spe/1/Hypnotic
+HS/pri/spe/1/Intuition
+HS/pri/spe/1/MindSear
+HS/pri/spe/1/Potion
+HS/pri/spe/1/Shard
+HS/pri/spe/10/Invasion
+HS/pri/spe/7/ShadowEssence
+HS/pri/spe/8/IdolOfY'Shaarj
+HS/pri/spe/8/Moonwell
+HS/pri/spe/9/Zerek'sCloningGallery
+HS/pri/warl/spe/0/RaiseDead
+HS/rog/cre/2/Tenwu
+HS/rog/cre/3/FieldContact
+HS/rog/cre/3/MaievSuspect
+HS/rog/cre/3/Vanessa
+HS/rog/cre/4/CounterfeitSmuggler
+HS/rog/cre/4/Edwin
+HS/rog/cre/4/NimbleSpy
+HS/rog/cre/4/Plinter
+HS/rog/cre/4/ScabbsCutterbutter
+HS/rog/cre/4/SonyaWaterdancer
+HS/rog/cre/4/SpellboundSeafarer
+HS/rog/cre/4/SpiritOfTheShark
+HS/rog/cre/4/Swiftscale
+HS/rog/cre/5/Draka
+HS/rog/cre/5/GiftThief
+HS/rog/cre/5/GralShark
+HS/rog/cre/5/Hooktail
+HS/rog/cre/5/MCBlingtron
+HS/rog/cre/5/RestlessThief
+HS/rog/cre/5/ShadowSculptor
+HS/rog/cre/5/Shadowcaster
+HS/rog/cre/6/GrandEmpressShek'zara
+HS/rog/cre/6/HighTemplar
+HS/rog/cre/6/OgrBoatswain
+HS/rog/cre/6/OputheUnseen
+HS/rog/cre/6/Prime
+HS/rog/cre/6/Togwaggle
+HS/rog/cre/7/ElizaAdmiral
+HS/rog/cre/7/Waxadred
+HS/rog/spe//1Fuel
+2 HS/rog/spe/0/CounterfeitCoin
+HS/rog/spe/0/Preparation
+HS/rog/spe/0/ShadowOfDemise
+HS/rog/spe/0/Shadowstep
+HS/rog/spe/1/DejaVu
+HS/rog/spe/1/Escape
+HS/rog/spe/1/Mimicry
+HS/rog/spe/1/Mixtape
+HS/rog/spe/1/ThiefSheep
+HS/rog/spe/2/Evasion
+HS/rog/spe/2/Ransom
+HS/rog/spe/2/SneakyHit
+HS/rog/spe/3/Daggers
+HS/rog/spe/3/Naxxramas
+HS/rog/spe/5/Graveyard
+HS/rog/spe/8/Smokescreen
+HS/sha/cre/2/Bolner
+HS/sha/cre/2/DanceStorm
+HS/sha/cre/3/Brilliant
+HS/sha/cre/3/Electra
+HS/sha/cre/3/Lightnerer
+HS/sha/cre/4/Cabaret
+HS/sha/cre/4/Hagatha
+HS/sha/cre/5/Rotgill
+HS/sha/cre/6/FireElem
+HS/sha/cre/6/Golganneth
+HS/sha/cre/6/Grumble
+HS/sha/cre/6/Merithra
+HS/sha/cre/6/Shudderblock
+HS/sha/cre/6/SnowfallElem
+HS/sha/cre/6/TheLurker
+HS/sha/cre/7/Bogshaper
+HS/sha/cre/7/Cosmonaut
+HS/sha/cre/7/Djinn
+HS/sha/cre/7/Enchanter
+HS/sha/cre/7/Glugg
+HS/sha/cre/7/Wildfire
+HS/sha/cre/8/Kraken
+HS/sha/cre/9/Avatar
+HS/sha/cre/9/Drakueu
+HS/sha/cre/9/Ohn'ahra
+HS/sha/mag/cre/5/Ras
+HS/sha/spe/0/Fireworks
+HS/sha/spe/0/Lightning
+HS/sha/spe/0/Spraying
+HS/sha/spe/1/Scalding
+HS/sha/spe/1/Storage
+HS/sha/spe/3/Permafrost
+HS/sha/spe/5/Bloodlust
+HS/sha/spe/5/Inara
+HS/sha/spe/7/Wish
+HS/war/cre/1/Patches
+HS/war/cre/10/SafetyExpert
+HS/war/cre/10/VarianWrynn
+HS/war/cre/3/Bombgrlock
+HS/war/cre/3/BoomMonster
+HS/war/cre/3/Intimidator
+HS/war/cre/5/Bronze
+HS/war/cre/5/DisruptiveSpellbreaker
+HS/war/cre/5/Felshaper
+HS/war/cre/5/HostileInvader
+HS/war/cre/5/Whatley
+HS/war/cre/5/Бумшаклер
+HS/war/cre/6/Blast
+HS/war/cre/6/Brann
+HS/war/cre/6/Crystal
+HS/war/cre/6/Dummy
+HS/war/cre/6/Engineer
+HS/war/cre/6/IronJuggernaut
+HS/war/cre/6/Jungle
+HS/war/cre/6/Khaz'goroth
+HS/war/cre/6/Krastinov
+HS/war/cre/6/Mechabull
+HS/war/cre/6/Saurfang
+HS/war/cre/6/Мораг
+HS/war/cre/7/BoomPilot
+HS/war/cre/7/Brawler
+HS/war/cre/7/LavaGolem
+HS/war/cre/7/Mechazod
+HS/war/cre/8/BoombossTho'grun
+HS/war/cre/8/Champion
+HS/war/cre/8/Drac
+HS/war/cre/8/InventorBoom
+HS/war/cre/8/TidalRevenant
+HS/war/cre/8WindpeakWyrm
+HS/war/spe/0/Order
+HS/war/spe/1/FlamingBlow
+HS/war/spe/1/Whirlwind
+HS/war/spe/2/SlowMotion
+HS/war/wea/3/Shield
+HS/war/wea/4/Hammer
+HS/warl/cre/10/Agamaggan
+HS/warl/cre/10/RafaamVillain
+HS/warl/cre/10/Zuramat
+HS/warl/cre/2/Isabel
+HS/warl/cre/3/HellSpawn
+HS/warl/cre/3/Sketch
+HS/warl/cre/3/Skull
+HS/warl/cre/3/Техномант
+HS/warl/cre/4/Dakota
+HS/warl/cre/4/Darkmarrow
+HS/warl/cre/4/FireBreather
+HS/warl/cre/4/Hound
+HS/warl/cre/4/Popgar
+HS/warl/cre/4/WardenLegion
+HS/warl/cre/4/Wrath
+HS/warl/cre/5/BesTourist
+HS/warl/cre/5/Dreadlord
+HS/warl/cre/5/Felstalker
+HS/warl/cre/5/Hollow
+HS/warl/cre/5/PrisonGuard
+HS/warl/cre/5/Rin
+HS/warl/cre/5/VoidTorturer
+HS/warl/cre/6/AshenCorruptor
+HS/warl/cre/6/Chronogor
+HS/warl/cre/6/Customer
+HS/warl/cre/6/GlindaCrowskin
+HS/warl/cre/6/Loken
+HS/warl/cre/6/Rafaam
+HS/warl/cre/7/Abyssal
+HS/warl/cre/7/Drathir
+HS/warl/cre/7/Felbat
+HS/warl/cre/7/Godfrey
+HS/warl/cre/7/Urzul
+HS/warl/cre/7/Valdris
+HS/warl/cre/8/Betrug
+HS/warl/cre/8/Hungering
+HS/warl/cre/8/Tickatus
+HS/warl/cre/9/MalGanis
+HS/warl/cre/9/Voidlord
+HS/warl/spe/0/Catacombs
+HS/warl/spe/1/Extraction
+HS/warl/spe/1/Frackling
+HS/warl/spe/1/Prediction
+HS/warl/spe/1/Rain
+HS/warl/spe/1/Soularium
+HS/warl/spe/4/Phyrexia
+HS/warl/spe/8/BatMask
+HS/warl/spe/8/VoidContract
+HS/warl/wea/4/AxeFel
+HS/mag/cre/3/Sell
+HS/mag/cre/4/Refreshing
+HS/mag/cre/9/Ultra
+HS/sha/cre/6/Neon
+HS/warl/cre/6/Doom
+HS/warl/rog/cre/5/Dreadbeard
+HS/neu/cre/8/Fungus
+HS/pal/cre/7/Whirring
+HS/dh/cre/3/Gladiator
+HS/hun/cre/7/Progenitor
+HS/hun/cre/4/Rover
+HS/hun/cre/6/Skittles
+HS/hun/cre/4/Stegodon
+HS/rog/cre/3/Upbeat
+HS/warl/cre/4/Tichondrius
+HS/warl/cre/4/Bazaar
+HS/neu/cre/3/Sand
+HS/war/cre/4/Ragnarosha
+HS/sha/cre/6/Lokholar
+HS/sha/cre/6/Al'Akir
